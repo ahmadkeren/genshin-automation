@@ -1,8 +1,10 @@
+# My Genshin Stats
+
 Total rewards claimed: 4
+\
+Last checked: 07.05.2021 16:33:30
 
-Last checked: 07.05.2021 16:30:34
-
-# Stats
+## Stats
 
 |Stat|Value|
 |-|-|
@@ -21,7 +23,7 @@ Unlocked domains | 28
 
 
 
-# Spiral Abys
+## Spiral Abys
 
 |Stat|Value|
 |-|-|
@@ -35,7 +37,7 @@ Most skills used | Razor -> 4
 
 
 
-# Exploration
+## Exploration
 
 ## Dragonspine
 |Stat|Value|
@@ -59,7 +61,7 @@ Reputation level | 8
 
 
 
-# Characters
+## Characters
 
 ## Barbara
 |Stat|Value|
@@ -72,7 +74,7 @@ Friendship | 10
 Constellation | 1
 Artifacts | 1 x Wanderer's Troupe, 4 x Maiden Beloved
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -92,7 +94,7 @@ Friendship | 10
 Constellation | 2
 Artifacts | 1 x Berserker, 1 x Scholar, 3 x Gladiator's Finale
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -112,7 +114,7 @@ Friendship | 9
 Constellation | 0
 Artifacts | 3 x Crimson Witch of Flames, 2 x Lavawalker
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -132,7 +134,7 @@ Friendship | 8
 Constellation | 4
 Artifacts | 4 x Retracing Bolide, 1 x Archaic Petra
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -152,7 +154,7 @@ Friendship | 6
 Constellation | 2
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -172,7 +174,7 @@ Friendship | 3
 Constellation | 0
 Artifacts | 1 x Wanderer's Troupe, 2 x Pale Flame, 2 x Bloodstained Chivalry
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -192,7 +194,7 @@ Friendship | 3
 Constellation | 3
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -212,7 +214,7 @@ Friendship | 3
 Constellation | 0
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -232,7 +234,7 @@ Friendship | 3
 Constellation | 0
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -252,7 +254,7 @@ Friendship | 1
 Constellation | 1
 Artifacts | 1 x Berserker, 1 x Gladiator's Finale, 1 x Lavawalker, 1 x Defender's Will, 1 x Instructor
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -272,7 +274,7 @@ Friendship | 1
 Constellation | 0
 Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -292,7 +294,7 @@ Friendship | 1
 Constellation | 4
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -312,7 +314,7 @@ Friendship | 1
 Constellation | 0
 Artifacts | 3 x Instructor, 2 x Wanderer's Troupe
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -332,7 +334,7 @@ Friendship | 1
 Constellation | 0
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -352,7 +354,7 @@ Friendship | 1
 Constellation | 1
 Artifacts | 1 x Crimson Witch of Flames, 2 x Gladiator's Finale, 2 x Archaic Petra
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -372,7 +374,7 @@ Friendship | 1
 Constellation | 3
 Artifacts | 2 x Noblesse Oblige
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -392,7 +394,7 @@ Friendship | 1
 Constellation | 0
 Artifacts | 4 x Viridescent Venerer, 1 x Archaic Petra
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -412,7 +414,7 @@ Friendship | 1
 Constellation | 0
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
@@ -432,7 +434,7 @@ Friendship | 1
 Constellation | 6
 Artifacts | 
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|

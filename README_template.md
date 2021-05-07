@@ -1,8 +1,10 @@
-Total rewards claimed: replace_this_with_reward_info_total_sign_day
+# My Genshin Stats
 
+Total rewards claimed: replace_this_with_reward_info_total_sign_day
+\
 Last checked: replace_this_with_check_time
 
-# Stats
+## Stats
 
 |Stat|Value|
 |-|-|
@@ -21,7 +23,7 @@ Unlocked domains | replace_this_with_unlocked_domains
 
 
 
-# Spiral Abys
+## Spiral Abys
 
 |Stat|Value|
 |-|-|
@@ -35,7 +37,7 @@ Most skills used | replace_this_with_abys_most_skills_used_nth-0_name -> replace
 
 
 
-# Exploration
+## Exploration
 
 replace_this_with_explorations_template_string$$$## replace_this_with_exploration_name
 |Stat|Value|
@@ -47,7 +49,7 @@ $$$
 
 
 
-# Characters
+## Characters
 
 replace_this_with_characters_template_string$$$## replace_this_with_character_name
 |Stat|Value|
@@ -60,7 +62,7 @@ Friendship | replace_this_with_character_friendship
 Constellation | replace_this_with_character_constellation
 Artifacts | replace_this_with_character_artifact_sets
 
-### Weapon
+#### Weapon
 
 |Stat|Value|
 |-|-|
