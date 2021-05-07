@@ -157,6 +157,7 @@ for code in new_codes[:-1]:
     gs.redeem_code(code, GAME_UID)
     time.sleep(5.0)
 if len(new_codes) != 0:
+    print("Redeemed " + str(len(new_codes)) + " new codes: " + ", ".join(new_codes))
     gs.redeem_code(new_codes[-1])
 
 
