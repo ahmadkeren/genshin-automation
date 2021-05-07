@@ -1,4 +1,5 @@
 Total rewards claimed: replace_this_with_reward_info_total_sign_day
+
 Last checked: replace_this_with_check_time
 
 # Stats
