@@ -2,7 +2,7 @@
 
 Total rewards claimed: 4
 \
-Last checked: 07.05.2021 18:10:07 UTC
+Last checked: 07.05.2021 18:37:15 UTC
 
 ## Stats
 
@@ -92,7 +92,7 @@ Level | 79
 Ascension | 6
 Friendship | 10
 Constellation | 2
-Artifacts | 3 x Gladiator's Finale, 1 x Scholar, 1 x Berserker
+Artifacts | 1 x Scholar, 1 x Berserker, 3 x Gladiator's Finale
 
 #### Weapon
 
@@ -172,7 +172,7 @@ Level | 80
 Ascension | 7
 Friendship | 3
 Constellation | 0
-Artifacts | 1 x Wanderer's Troupe, 2 x Pale Flame, 2 x Bloodstained Chivalry
+Artifacts | 2 x Bloodstained Chivalry, 2 x Pale Flame, 1 x Wanderer's Troupe
 
 #### Weapon
 
@@ -252,7 +252,7 @@ Level | 50
 Ascension | 4
 Friendship | 1
 Constellation | 1
-Artifacts | 1 x Lavawalker, 1 x Gladiator's Finale, 1 x Defender's Will, 1 x Instructor, 1 x Berserker
+Artifacts | 1 x Defender's Will, 1 x Lavawalker, 1 x Berserker, 1 x Instructor, 1 x Gladiator's Finale
 
 #### Weapon
 
@@ -272,7 +272,7 @@ Level | 50
 Ascension | 4
 Friendship | 1
 Constellation | 0
-Artifacts | 1 x Gladiator's Finale, 4 x Tenacity of the Millelith
+Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
 
 #### Weapon
 
@@ -312,7 +312,7 @@ Level | 28
 Ascension | 1
 Friendship | 1
 Constellation | 0
-Artifacts | 2 x Wanderer's Troupe, 3 x Instructor
+Artifacts | 3 x Instructor, 2 x Wanderer's Troupe
 
 #### Weapon
 
