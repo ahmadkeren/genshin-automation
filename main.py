@@ -132,3 +132,5 @@ for key, value in user_info["stats"].items():
 
 readme = root / "README.md"
 readme.open("w").write(data)
+
+#%%
