@@ -133,4 +133,36 @@ for key, value in user_info["stats"].items():
 readme = root / "README.md"
 readme.open("w").write(data)
 
+
+#%% Check for new codes
+
+import requests
+from bs4 import BeautifulSoup
+
+res = requests.get("https://www.pockettactics.com/genshin-impact/codes")
+soup = BeautifulSoup(res.text, 'html.parser')
+
+active_codes = [code.text for code in soup.find("div", {"class":"entry-content"}).find("ul").findAll("strong")]
+
+codes_file = root / "codes.txt"
+used_codes = codes_file.open().read().split("\n")
+new_codes = list(filter(lambda x: x not in used_codes, active_codes))
+
+
+#%% Redeem new codes
+
+import time
+
+for code in new_codes[:-1]:
+    gs.redeem_code(code, GAME_UID)
+    time.sleep(5.0)
+if len(new_codes) != 0:
+    gs.redeem_code(new_codes[-1])
+
+
+#%% Add new codes to used codes
+
+used_codes.extend(new_codes)
+codes_file.open("w").write("\n".join(used_codes))
+
 #%%

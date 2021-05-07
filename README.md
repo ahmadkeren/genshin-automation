@@ -2,7 +2,7 @@
 
 Total rewards claimed: 4
 \
-Last checked: 07.05.2021 16:35:44 UTC
+Last checked: 07.05.2021 18:10:07 UTC
 
 ## Stats
 
@@ -92,7 +92,7 @@ Level | 79
 Ascension | 6
 Friendship | 10
 Constellation | 2
-Artifacts | 1 x Berserker, 1 x Scholar, 3 x Gladiator's Finale
+Artifacts | 3 x Gladiator's Finale, 1 x Scholar, 1 x Berserker
 
 #### Weapon
 
@@ -112,7 +112,7 @@ Level | 81
 Ascension | 7
 Friendship | 9
 Constellation | 0
-Artifacts | 3 x Crimson Witch of Flames, 2 x Lavawalker
+Artifacts | 2 x Lavawalker, 3 x Crimson Witch of Flames
 
 #### Weapon
 
@@ -252,7 +252,7 @@ Level | 50
 Ascension | 4
 Friendship | 1
 Constellation | 1
-Artifacts | 1 x Berserker, 1 x Gladiator's Finale, 1 x Lavawalker, 1 x Defender's Will, 1 x Instructor
+Artifacts | 1 x Lavawalker, 1 x Gladiator's Finale, 1 x Defender's Will, 1 x Instructor, 1 x Berserker
 
 #### Weapon
 
@@ -272,7 +272,7 @@ Level | 50
 Ascension | 4
 Friendship | 1
 Constellation | 0
-Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
+Artifacts | 1 x Gladiator's Finale, 4 x Tenacity of the Millelith
 
 #### Weapon
 
@@ -312,7 +312,7 @@ Level | 28
 Ascension | 1
 Friendship | 1
 Constellation | 0
-Artifacts | 3 x Instructor, 2 x Wanderer's Troupe
+Artifacts | 2 x Wanderer's Troupe, 3 x Instructor
 
 #### Weapon
 
@@ -352,7 +352,7 @@ Level | 20
 Ascension | 1
 Friendship | 1
 Constellation | 1
-Artifacts | 1 x Crimson Witch of Flames, 2 x Gladiator's Finale, 2 x Archaic Petra
+Artifacts | 2 x Gladiator's Finale, 2 x Archaic Petra, 1 x Crimson Witch of Flames
 
 #### Weapon
 
