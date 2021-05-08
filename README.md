@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 4
+Total rewards claimed: 5
 \
-Last checked: 07.05.2021 18:37:15 UTC
+Last checked: 08.05.2021 17:04:19 UTC
 
 ## Stats
 
 |Stat|Value|
 |-|-|
-Achievements | 248
-Active days | 97
+Achievements | 250
+Active days | 98
 Characters | 19
 Spiral abyss | 9-1
 Anemoculi | 65
 Geoculi | 130
-Common chests | 714
-Exquisite chests | 715
+Common chests | 720
+Exquisite chests | 718
 Precious chests | 185
 Luxurious chests | 62
 Unlocked waypoints | 83
@@ -54,7 +54,7 @@ Reputation level | 8
 ## Liyue
 |Stat|Value|
 |-|-|
-Explored | 95.3%
+Explored | 95.9%
 Reputation level | 8
 
 
@@ -92,7 +92,7 @@ Level | 79
 Ascension | 6
 Friendship | 10
 Constellation | 2
-Artifacts | 1 x Scholar, 1 x Berserker, 3 x Gladiator's Finale
+Artifacts | 1 x Berserker, 1 x Scholar, 3 x Gladiator's Finale
 
 #### Weapon
 
@@ -172,7 +172,7 @@ Level | 80
 Ascension | 7
 Friendship | 3
 Constellation | 0
-Artifacts | 2 x Bloodstained Chivalry, 2 x Pale Flame, 1 x Wanderer's Troupe
+Artifacts | 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe, 2 x Pale Flame
 
 #### Weapon
 
@@ -252,7 +252,7 @@ Level | 50
 Ascension | 4
 Friendship | 1
 Constellation | 1
-Artifacts | 1 x Defender's Will, 1 x Lavawalker, 1 x Berserker, 1 x Instructor, 1 x Gladiator's Finale
+Artifacts | 1 x Instructor, 1 x Lavawalker, 1 x Gladiator's Finale, 1 x Defender's Will, 1 x Berserker
 
 #### Weapon
 
@@ -312,7 +312,7 @@ Level | 28
 Ascension | 1
 Friendship | 1
 Constellation | 0
-Artifacts | 3 x Instructor, 2 x Wanderer's Troupe
+Artifacts | 2 x Wanderer's Troupe, 3 x Instructor
 
 #### Weapon
 
@@ -352,7 +352,7 @@ Level | 20
 Ascension | 1
 Friendship | 1
 Constellation | 1
-Artifacts | 2 x Gladiator's Finale, 2 x Archaic Petra, 1 x Crimson Witch of Flames
+Artifacts | 1 x Crimson Witch of Flames, 2 x Gladiator's Finale, 2 x Archaic Petra
 
 #### Weapon
 
