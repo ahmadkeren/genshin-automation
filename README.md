@@ -2,7 +2,7 @@
 
 Total rewards claimed: 6
 \
-Last checked: 09.05.2021 17:05:34 UTC
+Last checked: 09.05.2021 17:45:31 UTC
 
 ## Stats
 
@@ -63,46 +63,6 @@ Reputation level | 8
 
 ## Characters
 
-## Barbara
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Hydro
-Level | 80
-Ascension | 7
-Friendship | 10
-Constellation | 1
-Artifacts | 1 x Wanderer's Troupe, 4 x Maiden Beloved
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Prototype Amber
-Rarity | 4
-Level | 70
-Refinement | 2
-
-## Razor
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Electro
-Level | 79
-Ascension | 6
-Friendship | 10
-Constellation | 2
-Artifacts | 1 x Berserker, 3 x Gladiator's Finale, 1 x Scholar
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Wolf's Gravestone
-Rarity | 5
-Level | 80
-Refinement | 1
-
 ## Hu Tao
 |Stat|Value|
 |-|-|
@@ -122,6 +82,106 @@ Name | Lithic Spear
 Rarity | 4
 Level | 90
 Refinement | 3
+
+## Keqing
+|Stat|Value|
+|-|-|
+Rarity | 5
+Element | Electro
+Level | 80
+Ascension | 7
+Friendship | 3
+Constellation | 0
+Artifacts | 2 x Pale Flame, 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Aquila Favonia
+Rarity | 5
+Level | 90
+Refinement | 1
+
+## Zhongli
+|Stat|Value|
+|-|-|
+Rarity | 5
+Element | Geo
+Level | 60
+Ascension | 5
+Friendship | 1
+Constellation | 0
+Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Favonius Lance
+Rarity | 4
+Level | 1
+Refinement | 1
+
+## Traveler
+|Stat|Value|
+|-|-|
+Rarity | 5
+Element | Geo
+Level | 30
+Ascension | 2
+Friendship | 1
+Constellation | 6
+Artifacts | 
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Prototype Rancour
+Rarity | 4
+Level | 20
+Refinement | 2
+
+## Diluc
+|Stat|Value|
+|-|-|
+Rarity | 5
+Element | Pyro
+Level | 20
+Ascension | 1
+Friendship | 1
+Constellation | 0
+Artifacts | 
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Waster Greatsword
+Rarity | 1
+Level | 1
+Refinement | 1
+
+## Barbara
+|Stat|Value|
+|-|-|
+Rarity | 4
+Element | Hydro
+Level | 80
+Ascension | 7
+Friendship | 10
+Constellation | 1
+Artifacts | 4 x Maiden Beloved, 1 x Wanderer's Troupe
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Prototype Amber
+Rarity | 4
+Level | 70
+Refinement | 2
 
 ## Noelle
 |Stat|Value|
@@ -143,45 +203,45 @@ Rarity | 4
 Level | 80
 Refinement | 2
 
-## Xiangling
+## Razor
+|Stat|Value|
+|-|-|
+Rarity | 4
+Element | Electro
+Level | 79
+Ascension | 6
+Friendship | 10
+Constellation | 2
+Artifacts | 3 x Gladiator's Finale, 1 x Scholar, 1 x Berserker
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Wolf's Gravestone
+Rarity | 5
+Level | 80
+Refinement | 1
+
+## Yanfei
 |Stat|Value|
 |-|-|
 Rarity | 4
 Element | Pyro
 Level | 50
 Ascension | 4
-Friendship | 6
-Constellation | 2
+Friendship | 1
+Constellation | 4
 Artifacts | 
 
 #### Weapon
 
 |Stat|Value|
 |-|-|
-Name | Halberd
-Rarity | 3
-Level | 50
-Refinement | 4
-
-## Keqing
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Electro
-Level | 80
-Ascension | 7
-Friendship | 3
-Constellation | 0
-Artifacts | 1 x Wanderer's Troupe, 2 x Bloodstained Chivalry, 2 x Pale Flame
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Aquila Favonia
-Rarity | 5
-Level | 90
-Refinement | 1
+Name | Favonius Codex
+Rarity | 4
+Level | 1
+Refinement | 2
 
 ## Chongyun
 |Stat|Value|
@@ -202,6 +262,46 @@ Name | Debate Club
 Rarity | 3
 Level | 60
 Refinement | 5
+
+## Xiangling
+|Stat|Value|
+|-|-|
+Rarity | 4
+Element | Pyro
+Level | 50
+Ascension | 4
+Friendship | 6
+Constellation | 2
+Artifacts | 
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Halberd
+Rarity | 3
+Level | 50
+Refinement | 4
+
+## Xingqiu
+|Stat|Value|
+|-|-|
+Rarity | 4
+Element | Hydro
+Level | 50
+Ascension | 4
+Friendship | 1
+Constellation | 1
+Artifacts | 1 x Lavawalker, 1 x Instructor, 1 x Gladiator's Finale, 1 x Defender's Will, 1 x Berserker
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Dull Blade
+Rarity | 1
+Level | 1
+Refinement | 1
 
 ## Fischl
 |Stat|Value|
@@ -243,66 +343,6 @@ Rarity | 3
 Level | 20
 Refinement | 5
 
-## Zhongli
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Geo
-Level | 60
-Ascension | 5
-Friendship | 1
-Constellation | 0
-Artifacts | 1 x Gladiator's Finale, 4 x Tenacity of the Millelith
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Favonius Lance
-Rarity | 4
-Level | 1
-Refinement | 1
-
-## Xingqiu
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Hydro
-Level | 50
-Ascension | 4
-Friendship | 1
-Constellation | 1
-Artifacts | 1 x Instructor, 1 x Berserker, 1 x Defender's Will, 1 x Lavawalker, 1 x Gladiator's Finale
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Dull Blade
-Rarity | 1
-Level | 1
-Refinement | 1
-
-## Yanfei
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Pyro
-Level | 50
-Ascension | 4
-Friendship | 1
-Constellation | 4
-Artifacts | 
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Favonius Codex
-Rarity | 4
-Level | 1
-Refinement | 2
-
 ## Lisa
 |Stat|Value|
 |-|-|
@@ -312,53 +352,13 @@ Level | 28
 Ascension | 1
 Friendship | 1
 Constellation | 0
-Artifacts | 2 x Wanderer's Troupe, 3 x Instructor
+Artifacts | 3 x Instructor, 2 x Wanderer's Troupe
 
 #### Weapon
 
 |Stat|Value|
 |-|-|
 Name | Apprentice's Notes
-Rarity | 1
-Level | 1
-Refinement | 1
-
-## Diluc
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Pyro
-Level | 20
-Ascension | 1
-Friendship | 1
-Constellation | 0
-Artifacts | 
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Waster Greatsword
-Rarity | 1
-Level | 1
-Refinement | 1
-
-## Beidou
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Electro
-Level | 20
-Ascension | 1
-Friendship | 1
-Constellation | 1
-Artifacts | 1 x Crimson Witch of Flames, 2 x Gladiator's Finale, 2 x Archaic Petra
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Waster Greatsword
 Rarity | 1
 Level | 1
 Refinement | 1
@@ -380,6 +380,26 @@ Artifacts | 2 x Noblesse Oblige
 |-|-|
 Name | Sacrificial Bow
 Rarity | 4
+Level | 1
+Refinement | 1
+
+## Beidou
+|Stat|Value|
+|-|-|
+Rarity | 4
+Element | Electro
+Level | 20
+Ascension | 1
+Friendship | 1
+Constellation | 1
+Artifacts | 2 x Gladiator's Finale, 2 x Archaic Petra, 1 x Crimson Witch of Flames
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Waster Greatsword
+Rarity | 1
 Level | 1
 Refinement | 1
 
@@ -422,24 +442,4 @@ Name | Silver Sword
 Rarity | 2
 Level | 5
 Refinement | 1
-
-## Traveler
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Geo
-Level | 30
-Ascension | 2
-Friendship | 1
-Constellation | 6
-Artifacts | 
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Prototype Rancour
-Rarity | 4
-Level | 20
-Refinement | 2
 
