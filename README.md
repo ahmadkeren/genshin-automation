@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 08.05.2021 17:04:19 UTC
+Last checked: 09.05.2021 17:05:34 UTC
 
 ## Stats
 
 |Stat|Value|
 |-|-|
 Achievements | 250
-Active days | 98
+Active days | 99
 Characters | 19
-Spiral abyss | 9-1
+Spiral abyss | 9-3
 Anemoculi | 65
 Geoculi | 130
-Common chests | 720
-Exquisite chests | 718
+Common chests | 724
+Exquisite chests | 719
 Precious chests | 185
 Luxurious chests | 62
 Unlocked waypoints | 83
@@ -27,13 +27,13 @@ Unlocked domains | 28
 
 |Stat|Value|
 |-|-|
-Total battles | 23
-Total wins | 16
-Max floor | 9-1
-Total stars | 33
-Strongest hit | Hutao -> 48675 DMG
+Total battles | 28
+Total wins | 19
+Max floor | 9-3
+Total stars | 39
+Strongest hit | Hutao -> 50315 DMG
 Most damage taken | Razor -> 41723 DMG
-Most skills used | Razor -> 4
+Most skills used | Hutao -> 11
 
 
 
@@ -54,7 +54,7 @@ Reputation level | 8
 ## Liyue
 |Stat|Value|
 |-|-|
-Explored | 95.9%
+Explored | 96.2%
 Reputation level | 8
 
 
@@ -92,7 +92,7 @@ Level | 79
 Ascension | 6
 Friendship | 10
 Constellation | 2
-Artifacts | 1 x Berserker, 1 x Scholar, 3 x Gladiator's Finale
+Artifacts | 1 x Berserker, 3 x Gladiator's Finale, 1 x Scholar
 
 #### Weapon
 
@@ -112,7 +112,7 @@ Level | 81
 Ascension | 7
 Friendship | 9
 Constellation | 0
-Artifacts | 2 x Lavawalker, 3 x Crimson Witch of Flames
+Artifacts | 3 x Crimson Witch of Flames, 2 x Lavawalker
 
 #### Weapon
 
@@ -172,7 +172,7 @@ Level | 80
 Ascension | 7
 Friendship | 3
 Constellation | 0
-Artifacts | 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe, 2 x Pale Flame
+Artifacts | 1 x Wanderer's Troupe, 2 x Bloodstained Chivalry, 2 x Pale Flame
 
 #### Weapon
 
@@ -243,6 +243,26 @@ Rarity | 3
 Level | 20
 Refinement | 5
 
+## Zhongli
+|Stat|Value|
+|-|-|
+Rarity | 5
+Element | Geo
+Level | 60
+Ascension | 5
+Friendship | 1
+Constellation | 0
+Artifacts | 1 x Gladiator's Finale, 4 x Tenacity of the Millelith
+
+#### Weapon
+
+|Stat|Value|
+|-|-|
+Name | Favonius Lance
+Rarity | 4
+Level | 1
+Refinement | 1
+
 ## Xingqiu
 |Stat|Value|
 |-|-|
@@ -252,7 +272,7 @@ Level | 50
 Ascension | 4
 Friendship | 1
 Constellation | 1
-Artifacts | 1 x Instructor, 1 x Lavawalker, 1 x Gladiator's Finale, 1 x Defender's Will, 1 x Berserker
+Artifacts | 1 x Instructor, 1 x Berserker, 1 x Defender's Will, 1 x Lavawalker, 1 x Gladiator's Finale
 
 #### Weapon
 
@@ -260,26 +280,6 @@ Artifacts | 1 x Instructor, 1 x Lavawalker, 1 x Gladiator's Finale, 1 x Defender
 |-|-|
 Name | Dull Blade
 Rarity | 1
-Level | 1
-Refinement | 1
-
-## Zhongli
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Geo
-Level | 50
-Ascension | 4
-Friendship | 1
-Constellation | 0
-Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
-
-#### Weapon
-
-|Stat|Value|
-|-|-|
-Name | Favonius Lance
-Rarity | 4
 Level | 1
 Refinement | 1
 
