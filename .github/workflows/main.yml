@@ -6,29 +6,31 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  check_and_update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout master
         uses: actions/checkout@v2
-          
+
       - name: Set up python
         uses: actions/setup-python@v2
         with:
           python-version: 3.7
+
+      - name: Install requirements
+        run: |-
+          pip install genshinstats
+          pip install beautifulsoup4
+          pip install requests
 
       - name: Run main.py
         env:
           COOKIE: ${{ secrets.COOKIE }}
           GAME_UID: ${{ secrets.GAME_UID }}
         run: |-
-          pip install genshinstats
-          pip install beautifulsoup4
-          pip install requests
           python3 ./main.py
-          cat README.md
-          
+
       - name: Commit and push if changed
         run: |-
           git diff

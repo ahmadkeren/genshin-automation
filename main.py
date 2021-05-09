@@ -108,6 +108,8 @@ while True:
 
     filled_templates = ""
 
+    characters.sort(key=lambda x: (int(x["rarity"]), int(x["level"]), int(x["ascension"]), int(x["constellation"]) ,int(x["friendship"])), reverse=True)
+
     for character in characters:
         filled_template = template_string
         for key, value in character.items():
@@ -116,7 +118,9 @@ while True:
                     filled_template = filled_template.replace(f"replace_this_with_character_weapon_{key}", str(value))
             elif key == "artifacts":
                 sets = [set_piece.get("set").get("name") for set_piece in value]
-                sets = ", ".join([f"{sets.count(x)} x {x}" for x in set(sets)])
+                sets = [f"{sets.count(x)} x {x}" for x in set(sets)]
+                sets.sort(reverse=True)
+                sets = ", ".join(sets)
                 filled_template = filled_template.replace("replace_this_with_character_artifact_sets", sets)
             else:
                 filled_template = filled_template.replace(f"replace_this_with_character_{key}", str(value))
