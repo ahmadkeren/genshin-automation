@@ -2,7 +2,7 @@
 
 Total rewards claimed: replace_this_with_reward_info_total_sign_day
 \
-Last checked: replace_this_with_check_time UTC
+Last checked: replace_this_with_check_time
 
 ## Stats
 
@@ -39,19 +39,20 @@ Most skills used | replace_this_with_abys_most_skills_used_nth-0_name -> replace
 
 ## Exploration
 
-replace_this_with_explorations_template_string$$$## replace_this_with_exploration_name
+replace_this_with_explorations_template_string$$$
+### replace_this_with_exploration_name
 |Stat|Value|
 |-|-|
 Explored | replace_this_with_exploration_explored%
 replace_this_with_exploration_type level | replace_this_with_exploration_level
-
 $$$
 
 
 
 ## Characters
 
-replace_this_with_characters_template_string$$$## replace_this_with_character_name
+replace_this_with_characters_template_string$$$
+### replace_this_with_character_name
 |Stat|Value|
 |-|-|
 Rarity | replace_this_with_character_rarity
@@ -70,5 +71,4 @@ Name | replace_this_with_character_weapon_name
 Rarity | replace_this_with_character_weapon_rarity
 Level | replace_this_with_character_weapon_level
 Refinement | replace_this_with_character_weapon_refinement
-
 $$$

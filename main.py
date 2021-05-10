@@ -35,7 +35,7 @@ data = readme_template.open().read()
 
 
 import datetime
-data = data.replace("replace_this_with_check_time", datetime.datetime.utcnow().strftime("%d.%m.%Y %H:%M:%S"))
+data = data.replace("replace_this_with_check_time", datetime.datetime.utcnow().strftime("%d.%m.%Y %H:%M:%S UTC"))
 
 # stats filling
 for key, value in daily_reward_info.items():
@@ -159,7 +159,7 @@ import time
 
 for code in new_codes[:-1]:
     gs.redeem_code(code, GAME_UID)
-    time.sleep(5.0)
+    time.sleep(5.2)
 if len(new_codes) != 0:
     print("Redeemed " + str(len(new_codes)) + " new codes: " + ", ".join(new_codes))
     gs.redeem_code(new_codes[-1], GAME_UID)
