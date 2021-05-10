@@ -2,14 +2,14 @@
 
 Total rewards claimed: 6
 \
-Last checked: 09.05.2021 17:45:31 UTC
+Last checked: 10.05.2021 12:29:52 UTC
 
 ## Stats
 
 |Stat|Value|
 |-|-|
 Achievements | 250
-Active days | 99
+Active days | 100
 Characters | 19
 Spiral abyss | 9-3
 Anemoculi | 65
@@ -33,25 +33,26 @@ Max floor | 9-3
 Total stars | 39
 Strongest hit | Hutao -> 50315 DMG
 Most damage taken | Razor -> 41723 DMG
-Most skills used | Hutao -> 11
+Most skills used | Keqing -> 11
 
 
 
 ## Exploration
 
-## Dragonspine
+
+### Dragonspine
 |Stat|Value|
 |-|-|
 Explored | 100.0%
 Offering level | 12
 
-## Mondstadt
+### Mondstadt
 |Stat|Value|
 |-|-|
 Explored | 97.7%
 Reputation level | 8
 
-## Liyue
+### Liyue
 |Stat|Value|
 |-|-|
 Explored | 96.2%
@@ -60,10 +61,10 @@ Reputation level | 8
 
 
 
-
 ## Characters
 
-## Hu Tao
+
+### Hu Tao
 |Stat|Value|
 |-|-|
 Rarity | 5
@@ -83,14 +84,14 @@ Rarity | 4
 Level | 90
 Refinement | 3
 
-## Keqing
+### Keqing
 |Stat|Value|
 |-|-|
 Rarity | 5
 Element | Electro
 Level | 80
 Ascension | 7
-Friendship | 3
+Friendship | 4
 Constellation | 0
 Artifacts | 2 x Pale Flame, 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe
 
@@ -103,14 +104,14 @@ Rarity | 5
 Level | 90
 Refinement | 1
 
-## Zhongli
+### Zhongli
 |Stat|Value|
 |-|-|
 Rarity | 5
 Element | Geo
 Level | 60
 Ascension | 5
-Friendship | 1
+Friendship | 2
 Constellation | 0
 Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
 
@@ -123,7 +124,7 @@ Rarity | 4
 Level | 1
 Refinement | 1
 
-## Traveler
+### Traveler
 |Stat|Value|
 |-|-|
 Rarity | 5
@@ -143,7 +144,7 @@ Rarity | 4
 Level | 20
 Refinement | 2
 
-## Diluc
+### Diluc
 |Stat|Value|
 |-|-|
 Rarity | 5
@@ -163,7 +164,7 @@ Rarity | 1
 Level | 1
 Refinement | 1
 
-## Barbara
+### Barbara
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -183,7 +184,7 @@ Rarity | 4
 Level | 70
 Refinement | 2
 
-## Noelle
+### Noelle
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -203,7 +204,7 @@ Rarity | 4
 Level | 80
 Refinement | 2
 
-## Razor
+### Razor
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -212,7 +213,7 @@ Level | 79
 Ascension | 6
 Friendship | 10
 Constellation | 2
-Artifacts | 3 x Gladiator's Finale, 1 x Scholar, 1 x Berserker
+Artifacts | 2 x Gladiator's Finale, 1 x Tenacity of the Millelith, 1 x Scholar, 1 x Berserker
 
 #### Weapon
 
@@ -223,7 +224,7 @@ Rarity | 5
 Level | 80
 Refinement | 1
 
-## Yanfei
+### Yanfei
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -243,7 +244,7 @@ Rarity | 4
 Level | 1
 Refinement | 2
 
-## Chongyun
+### Chongyun
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -263,7 +264,7 @@ Rarity | 3
 Level | 60
 Refinement | 5
 
-## Xiangling
+### Xiangling
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -283,7 +284,7 @@ Rarity | 3
 Level | 50
 Refinement | 4
 
-## Xingqiu
+### Xingqiu
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -303,7 +304,7 @@ Rarity | 1
 Level | 1
 Refinement | 1
 
-## Fischl
+### Fischl
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -323,7 +324,7 @@ Rarity | 4
 Level | 80
 Refinement | 5
 
-## Amber
+### Amber
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -343,7 +344,7 @@ Rarity | 3
 Level | 20
 Refinement | 5
 
-## Lisa
+### Lisa
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -363,7 +364,7 @@ Rarity | 1
 Level | 1
 Refinement | 1
 
-## Diona
+### Diona
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -383,7 +384,7 @@ Rarity | 4
 Level | 1
 Refinement | 1
 
-## Beidou
+### Beidou
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -403,7 +404,7 @@ Rarity | 1
 Level | 1
 Refinement | 1
 
-## Sucrose
+### Sucrose
 |Stat|Value|
 |-|-|
 Rarity | 4
@@ -423,7 +424,7 @@ Rarity | 1
 Level | 1
 Refinement | 1
 
-## Kaeya
+### Kaeya
 |Stat|Value|
 |-|-|
 Rarity | 4
