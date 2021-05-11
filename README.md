@@ -1,15 +1,15 @@
 # My Genshin Stats
 
-Total rewards claimed: 7
+Total rewards claimed: 8
 \
-Last checked: 10.05.2021 17:07:51 UTC
+Last checked: 11.05.2021 17:08:25 UTC
 
 ## Stats
 
 |Stat|Value|
 |-|-|
 Achievements | 250
-Active days | 100
+Active days | 101
 Characters | 19
 Spiral abyss | 9-3
 Anemoculi | 65
@@ -33,7 +33,7 @@ Max floor | 9-3
 Total stars | 39
 Strongest hit | Hutao -> 50315 DMG
 Most damage taken | Razor -> 41723 DMG
-Most skills used | Keqing -> 11
+Most skills used | Hutao -> 11
 
 
 
