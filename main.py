@@ -122,6 +122,8 @@ while True:
                 sets.sort(reverse=True)
                 sets = "<br>".join(sets)
                 filled_template = filled_template.replace("replace_this_with_character_artifact_sets", sets)
+            elif key == "constellations":
+                continue
             else:
                 filled_template = filled_template.replace(f"replace_this_with_character_{key}", str(value))
         filled_templates += filled_template
