@@ -1,63 +1,90 @@
+<!---
+For some reason this is broken in mobile app, but works in browser, both on mobile and desktop... ¯\_(ツ)_/¯
+-->
+
 # My Genshin Stats
 
 Total rewards claimed: 9
 \
-Last checked: 12.05.2021 17:12:45 UTC
+Last checked: 12.05.2021 17:46:52 UTC
 
 ## Stats
 
-|Stat|Value|
-|-|-|
-Achievements | 251
-Active days | 102
-Characters | 19
-Spiral abyss | 9-3
-Anemoculi | 65
-Geoculi | 130
-Common chests | 724
-Exquisite chests | 719
-Precious chests | 185
-Luxurious chests | 62
-Unlocked waypoints | 83
-Unlocked domains | 28
-
-
+<table>
+    <tr><td>Achievements</td><td>251</td></tr>
+    <tr><td>Active days</td><td>102</td></tr>
+    <tr><td>Characters</td><td>19</td></tr>
+    <tr><td>Spiral abyss</td><td>9-3</td></tr>
+    <tr><td>Anemoculi</td><td>65</td></tr>
+    <tr><td>Geoculi</td><td>130</td></tr>
+    <tr><td>Common chests</td><td>724</td></tr>
+    <tr><td>Exquisite chests</td><td>719</td></tr>
+    <tr><td>Precious chests</td><td>185</td></tr>
+    <tr><td>Luxurious chests</td><td>62</td></tr>
+    <tr><td>Unlocked waypoints</td><td>83</td></tr>
+    <tr><td>Unlocked domains</td><td>28</td></tr>
+</table>
 
 ## Spiral Abys
 
-|Stat|Value|
-|-|-|
-Total battles | 28
-Total wins | 19
-Max floor | 9-3
-Total stars | 39
-Strongest hit | Hutao -> 50315 DMG
-Most damage taken | Razor -> 41723 DMG
-Most skills used | Hutao -> 11
-
+<table>
+    <tr><td>Total battles</td><td>28</td></tr>
+    <tr><td>Total wins</td><td>19</td></tr>
+    <tr><td>Max floor</td><td>9-3</td></tr>
+    <tr><td>Total stars</td><td>39</td></tr>
+    <tr><td>Strongest hit</td><td>Hutao -> 50315 DMG</td></tr>
+    <tr><td>Most damage taken</td><td>Razor -> 41723 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Hutao -> 11</td></tr>
+</table>
 
 
 ## Exploration
 
-
-### Dragonspine
-|Stat|Value|
-|-|-|
-Explored | 100.0%
-Offering level | 12
-
-### Mondstadt
-|Stat|Value|
-|-|-|
-Explored | 97.7%
-Reputation level | 8
-
-### Liyue
-|Stat|Value|
-|-|-|
-Explored | 96.2%
-Reputation level | 8
-
+<table>
+    <tr>
+        <th>Dragonspine</th>
+        <th>Mondstadt</th>
+        <th>Liyue</th>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>100.0%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>12</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>97.7%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>8</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>96.2%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>8</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
 
 
@@ -65,382 +92,534 @@ Reputation level | 8
 
 
 ### Hu Tao
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Pyro
-Level | 81
-Ascension | 7
-Friendship | 9
-Constellation | 0
-Artifacts | 3 x Crimson Witch of Flames, 2 x Lavawalker
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Lithic Spear
-Rarity | 4
-Level | 90
-Refinement | 3
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>81</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Lithic Spear</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Keqing
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Electro
-Level | 80
-Ascension | 7
-Friendship | 4
-Constellation | 0
-Artifacts | 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe, 1 x Tenacity of the Millelith, 1 x Pale Flame
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Aquila Favonia
-Rarity | 5
-Level | 90
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>2 x Bloodstained Chivalry<br>1 x Wanderer's Troupe<br>1 x Tenacity of the Millelith<br>1 x Pale Flame</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Aquila Favonia</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Zhongli
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Geo
-Level | 60
-Ascension | 5
-Friendship | 2
-Constellation | 0
-Artifacts | 4 x Tenacity of the Millelith, 1 x Gladiator's Finale
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Favonius Lance
-Rarity | 4
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Ascension</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Favonius Lance</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Traveler
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Geo
-Level | 30
-Ascension | 2
-Friendship | 1
-Constellation | 6
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Prototype Rancour
-Rarity | 4
-Level | 20
-Refinement | 2
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>30</td></tr>
+    <tr><td>Ascension</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Prototype Rancour</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Diluc
-|Stat|Value|
-|-|-|
-Rarity | 5
-Element | Pyro
-Level | 20
-Ascension | 1
-Friendship | 1
-Constellation | 0
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Waster Greatsword
-Rarity | 1
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Ascension</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Barbara
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Hydro
-Level | 80
-Ascension | 7
-Friendship | 10
-Constellation | 1
-Artifacts | 4 x Maiden Beloved, 1 x Wanderer's Troupe
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Prototype Amber
-Rarity | 4
-Level | 70
-Refinement | 2
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Wanderer's Troupe</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Prototype Amber</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Noelle
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Geo
-Level | 79
-Ascension | 6
-Friendship | 8
-Constellation | 4
-Artifacts | 4 x Retracing Bolide, 1 x Archaic Petra
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Whiteblind
-Rarity | 4
-Level | 80
-Refinement | 2
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>79</td></tr>
+    <tr><td>Ascension</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Artifacts</td><td>4 x Retracing Bolide<br>1 x Archaic Petra</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Whiteblind</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Razor
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Electro
-Level | 79
-Ascension | 6
-Friendship | 10
-Constellation | 2
-Artifacts | 2 x Gladiator's Finale, 1 x Scholar, 1 x Pale Flame, 1 x Berserker
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Wolf's Gravestone
-Rarity | 5
-Level | 80
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>79</td></tr>
+    <tr><td>Ascension</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>1 x Scholar<br>1 x Pale Flame<br>1 x Berserker</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Yanfei
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Pyro
-Level | 50
-Ascension | 4
-Friendship | 1
-Constellation | 4
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Favonius Codex
-Rarity | 4
-Level | 1
-Refinement | 2
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Ascension</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Favonius Codex</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Chongyun
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Cryo
-Level | 50
-Ascension | 4
-Friendship | 3
-Constellation | 3
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Debate Club
-Rarity | 3
-Level | 60
-Refinement | 5
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Ascension</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Debate Club</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Xiangling
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Pyro
-Level | 50
-Ascension | 4
-Friendship | 6
-Constellation | 2
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Halberd
-Rarity | 3
-Level | 50
-Refinement | 4
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Ascension</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Halberd</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Xingqiu
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Hydro
-Level | 50
-Ascension | 4
-Friendship | 1
-Constellation | 1
-Artifacts | 1 x Lavawalker, 1 x Instructor, 1 x Gladiator's Finale, 1 x Defender's Will, 1 x Berserker
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Dull Blade
-Rarity | 1
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Ascension</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>1 x Lavawalker<br>1 x Instructor<br>1 x Gladiator's Finale<br>1 x Defender's Will<br>1 x Berserker</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Dull Blade</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Fischl
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Electro
-Level | 40
-Ascension | 3
-Friendship | 3
-Constellation | 0
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Windblume Ode
-Rarity | 4
-Level | 80
-Refinement | 5
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Ascension</td><td>3</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Windblume Ode</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Amber
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Pyro
-Level | 31
-Ascension | 2
-Friendship | 3
-Constellation | 0
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Slingshot
-Rarity | 3
-Level | 20
-Refinement | 5
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>31</td></tr>
+    <tr><td>Ascension</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Slingshot</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Lisa
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Electro
-Level | 28
-Ascension | 1
-Friendship | 1
-Constellation | 0
-Artifacts | 3 x Instructor, 2 x Wanderer's Troupe
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Apprentice's Notes
-Rarity | 1
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>28</td></tr>
+    <tr><td>Ascension</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>3 x Instructor<br>2 x Wanderer's Troupe</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Diona
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Cryo
-Level | 20
-Ascension | 1
-Friendship | 1
-Constellation | 3
-Artifacts | 2 x Noblesse Oblige
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Sacrificial Bow
-Rarity | 4
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Ascension</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td>2 x Noblesse Oblige</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Beidou
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Electro
-Level | 20
-Ascension | 1
-Friendship | 1
-Constellation | 1
-Artifacts | 2 x Gladiator's Finale, 2 x Archaic Petra, 1 x Crimson Witch of Flames
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Waster Greatsword
-Rarity | 1
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Ascension</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Archaic Petra<br>1 x Crimson Witch of Flames</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Sucrose
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Anemo
-Level | 20
-Ascension | 1
-Friendship | 1
-Constellation | 0
-Artifacts | 4 x Viridescent Venerer, 1 x Archaic Petra
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Apprentice's Notes
-Rarity | 1
-Level | 1
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Anemo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Ascension</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Archaic Petra</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Kaeya
-|Stat|Value|
-|-|-|
-Rarity | 4
-Element | Cryo
-Level | 13
-Ascension | 0
-Friendship | 1
-Constellation | 0
-Artifacts | 
 
-#### Weapon
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
 
-|Stat|Value|
-|-|-|
-Name | Silver Sword
-Rarity | 2
-Level | 5
-Refinement | 1
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>13</td></tr>
+    <tr><td>Ascension</td><td>0</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Silver Sword</td></tr>
+    <tr><td>Rarity</td><td>2</td></tr>
+    <tr><td>Level</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
