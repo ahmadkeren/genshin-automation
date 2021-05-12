@@ -30,7 +30,7 @@ daily_reward_info = gs.get_daily_reward_info()
 import pathlib
 
 root = pathlib.Path(__file__).parent.resolve()
-readme_template = root / "README_template.md"
+readme_template = root / "README_template_v2.md"
 data = readme_template.open().read()
 
 
@@ -68,7 +68,7 @@ while True:
 
     data = data.replace(template_start_str + template_string + "$$$", filled_templates)
 
-    offset = end_index + 3
+    offset = start_index
 
 
 # abys stats filling
@@ -120,7 +120,7 @@ while True:
                 sets = [set_piece.get("set").get("name") for set_piece in value]
                 sets = [f"{sets.count(x)} x {x}" for x in set(sets)]
                 sets.sort(reverse=True)
-                sets = ", ".join(sets)
+                sets = "<br>".join(sets)
                 filled_template = filled_template.replace("replace_this_with_character_artifact_sets", sets)
             else:
                 filled_template = filled_template.replace(f"replace_this_with_character_{key}", str(value))
@@ -128,7 +128,7 @@ while True:
 
     data = data.replace(template_start_str + template_string + "$$$", filled_templates)
 
-    offset = end_index + 3
+    offset = start_index
 
 # stats filling
 for key, value in user_info["stats"].items():

@@ -1,3 +1,9 @@
+<!---
+In code change formatting artifacts to single string
+from "whatever".join(...) to ", ".join(...)
+-->
+
+
 # My Genshin Stats
 
 Total rewards claimed: replace_this_with_reward_info_total_sign_day
