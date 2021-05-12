@@ -1,15 +1,15 @@
 # My Genshin Stats
 
-Total rewards claimed: 8
+Total rewards claimed: 9
 \
-Last checked: 11.05.2021 17:08:25 UTC
+Last checked: 12.05.2021 17:12:45 UTC
 
 ## Stats
 
 |Stat|Value|
 |-|-|
-Achievements | 250
-Active days | 101
+Achievements | 251
+Active days | 102
 Characters | 19
 Spiral abyss | 9-3
 Anemoculi | 65
@@ -93,7 +93,7 @@ Level | 80
 Ascension | 7
 Friendship | 4
 Constellation | 0
-Artifacts | 2 x Pale Flame, 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe
+Artifacts | 2 x Bloodstained Chivalry, 1 x Wanderer's Troupe, 1 x Tenacity of the Millelith, 1 x Pale Flame
 
 #### Weapon
 
@@ -213,7 +213,7 @@ Level | 79
 Ascension | 6
 Friendship | 10
 Constellation | 2
-Artifacts | 2 x Gladiator's Finale, 1 x Tenacity of the Millelith, 1 x Scholar, 1 x Berserker
+Artifacts | 2 x Gladiator's Finale, 1 x Scholar, 1 x Pale Flame, 1 x Berserker
 
 #### Weapon
 
