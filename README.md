@@ -6,7 +6,7 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 Total rewards claimed: 9
 \
-Last checked: 12.05.2021 17:46:52 UTC
+Last checked: 12.05.2021 19:30:33 UTC
 
 ## Stats
 
@@ -34,7 +34,7 @@ Last checked: 12.05.2021 17:46:52 UTC
     <tr><td>Total stars</td><td>39</td></tr>
     <tr><td>Strongest hit</td><td>Hutao -> 50315 DMG</td></tr>
     <tr><td>Most damage taken</td><td>Razor -> 41723 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Hutao -> 11</td></tr>
+    <tr><td>Most skills used</td><td>Keqing -> 11</td></tr>
 </table>
 
 
