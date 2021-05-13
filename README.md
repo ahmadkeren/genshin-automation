@@ -4,21 +4,21 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 9
+Total rewards claimed: 10
 \
-Last checked: 12.05.2021 19:30:33 UTC
+Last checked: 13.05.2021 17:12:26 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>251</td></tr>
-    <tr><td>Active days</td><td>102</td></tr>
+    <tr><td>Active days</td><td>103</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>9-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>724</td></tr>
-    <tr><td>Exquisite chests</td><td>719</td></tr>
+    <tr><td>Common chests</td><td>726</td></tr>
+    <tr><td>Exquisite chests</td><td>722</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
     <tr><td>Unlocked waypoints</td><td>83</td></tr>
@@ -34,7 +34,7 @@ Last checked: 12.05.2021 19:30:33 UTC
     <tr><td>Total stars</td><td>39</td></tr>
     <tr><td>Strongest hit</td><td>Hutao -> 50315 DMG</td></tr>
     <tr><td>Most damage taken</td><td>Razor -> 41723 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Keqing -> 11</td></tr>
+    <tr><td>Most skills used</td><td>Hutao -> 11</td></tr>
 </table>
 
 
@@ -75,7 +75,7 @@ Last checked: 12.05.2021 19:30:33 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>96.2%</td>
+                    <td>96.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
