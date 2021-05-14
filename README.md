@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 10
+Total rewards claimed: 11
 \
-Last checked: 13.05.2021 17:12:26 UTC
+Last checked: 14.05.2021 17:12:35 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>251</td></tr>
-    <tr><td>Active days</td><td>103</td></tr>
+    <tr><td>Active days</td><td>104</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>9-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -22,7 +22,7 @@ Last checked: 13.05.2021 17:12:26 UTC
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
     <tr><td>Unlocked waypoints</td><td>83</td></tr>
-    <tr><td>Unlocked domains</td><td>28</td></tr>
+    <tr><td>Unlocked domains</td><td>29</td></tr>
 </table>
 
 ## Spiral Abys
@@ -34,7 +34,7 @@ Last checked: 13.05.2021 17:12:26 UTC
     <tr><td>Total stars</td><td>39</td></tr>
     <tr><td>Strongest hit</td><td>Hutao -> 50315 DMG</td></tr>
     <tr><td>Most damage taken</td><td>Razor -> 41723 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Hutao -> 11</td></tr>
+    <tr><td>Most skills used</td><td>Keqing -> 11</td></tr>
 </table>
 
 
