@@ -2,6 +2,8 @@
 
 import genshinstats as gs
 import os
+import re
+
 
 #%% login into genshin
 
@@ -75,19 +77,27 @@ while True:
 for key, value in spiral_abys["stats"].items():
     data = data.replace(f"replace_this_with_abys_{key}", str(value))
 
-# abys strongest hit
-for key, value in spiral_abys["character_ranks"].get("strongest_hit")[0].items():
-    data = data.replace(f"replace_this_with_abys_strongest_hit_{key}", str(value))
+# done any abys this seasson?
+if spiral_abys["stats"]["total_battles"] != 0:
+    # abys strongest hit
+    for key, value in spiral_abys["character_ranks"].get("strongest_hit")[:1].items():
+        data = data.replace(f"replace_this_with_abys_strongest_hit_{key}", str(value))
 
-# abys most damage taken
-for i, character in enumerate(spiral_abys["character_ranks"].get("most_damage_taken")):
-    for key, value in character.items():
-        data = data.replace(f"replace_this_with_abys_most_damage_taken_nth-{i}_{key}", str(value))
+    # abys most damage taken
+    for i, character in enumerate(spiral_abys["character_ranks"].get("most_damage_taken")):
+        for key, value in character.items():
+            data = data.replace(f"replace_this_with_abys_most_damage_taken_nth-{i}_{key}", str(value))
 
-# abys most skills used
-for i, character in enumerate(spiral_abys["character_ranks"].get("most_skills_used")):
-    for key, value in character.items():
-        data = data.replace(f"replace_this_with_abys_most_skills_used_nth-{i}_{key}", str(value))
+    # abys most skills used
+    for i, character in enumerate(spiral_abys["character_ranks"].get("most_skills_used")):
+        for key, value in character.items():
+            data = data.replace(f"replace_this_with_abys_most_skills_used_nth-{i}_{key}", str(value))
+else:
+    # replace with some data
+    data = re.sub(r"replace_this_with_abys_strongest_hit_[a-z]+", "no strongest hit this seasson", data)
+    data = re.sub(r"replace_this_with_abys_most_damage_taken_nth-\d_[a-z]+", "no most damage taken this seasson", data)
+    data = re.sub(r"replace_this_with_abys_most_skills_used_nth-\d_[a-z]+", "no most skills used this seasson", data)
+
 
 # characters
 offset = 0
