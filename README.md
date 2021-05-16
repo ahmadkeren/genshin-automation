@@ -4,17 +4,17 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 15.05.2021 17:10:27 UTC
+Last checked: 16.05.2021 17:40:51 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>253</td></tr>
-    <tr><td>Active days</td><td>105</td></tr>
+    <tr><td>Achievements</td><td>254</td></tr>
+    <tr><td>Active days</td><td>106</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
-    <tr><td>Spiral abyss</td><td>9-3</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Common chests</td><td>726</td></tr>
@@ -28,13 +28,13 @@ Last checked: 15.05.2021 17:10:27 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>28</td></tr>
-    <tr><td>Total wins</td><td>19</td></tr>
-    <tr><td>Max floor</td><td>9-3</td></tr>
-    <tr><td>Total stars</td><td>39</td></tr>
-    <tr><td>Strongest hit</td><td>Hutao -> 50315 DMG</td></tr>
-    <tr><td>Most damage taken</td><td>Razor -> 41723 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Keqing -> 11</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest hit this seasson -> no strongest hit this seasson DMG</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
 </table>
 
 
@@ -158,7 +158,7 @@ Last checked: 15.05.2021 17:10:27 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
