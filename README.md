@@ -4,37 +4,37 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 16.05.2021 17:40:51 UTC
+Last checked: 17.05.2021 17:26:45 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>254</td></tr>
-    <tr><td>Active days</td><td>106</td></tr>
+    <tr><td>Achievements</td><td>255</td></tr>
+    <tr><td>Active days</td><td>107</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>726</td></tr>
-    <tr><td>Exquisite chests</td><td>722</td></tr>
+    <tr><td>Common chests</td><td>727</td></tr>
+    <tr><td>Exquisite chests</td><td>724</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
     <tr><td>Unlocked waypoints</td><td>83</td></tr>
-    <tr><td>Unlocked domains</td><td>29</td></tr>
+    <tr><td>Unlocked domains</td><td>27</td></tr>
 </table>
 
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest hit this seasson -> no strongest hit this seasson DMG</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Total battles</td><td>8</td></tr>
+    <tr><td>Total wins</td><td>6</td></tr>
+    <tr><td>Max floor</td><td>10-3</td></tr>
+    <tr><td>Total stars</td><td>18</td></tr>
+    <tr><td>Strongest hit</td><td>Hutao -> 104943 DMG</td></tr>
+    <tr><td>Most damage taken</td><td>Hutao -> 70482 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Hutao -> 22</td></tr>
 </table>
 
 
@@ -75,7 +75,7 @@ Last checked: 16.05.2021 17:40:51 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>96.5%</td>
+                    <td>96.7%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -132,7 +132,7 @@ Last checked: 16.05.2021 17:40:51 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Bloodstained Chivalry<br>1 x Wanderer's Troupe<br>1 x Tenacity of the Millelith<br>1 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
 </td><td>
@@ -166,10 +166,10 @@ Last checked: 16.05.2021 17:40:51 UTC
 </td><td>
 
 <table>
-    <tr><td>Name</td><td>Favonius Lance</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Name</td><td>White Tassel</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -523,8 +523,8 @@ Last checked: 16.05.2021 17:40:51 UTC
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>2 x Noblesse Oblige</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
 
 </td><td>
