@@ -80,7 +80,7 @@ for key, value in spiral_abys["stats"].items():
 # done any abys this seasson?
 if spiral_abys["stats"]["total_battles"] != 0:
     # abys strongest hit
-    for key, value in spiral_abys["character_ranks"].get("strongest_hit")[:1].items():
+    for key, value in spiral_abys["character_ranks"].get("strongest_hit")[0].items():
         data = data.replace(f"replace_this_with_abys_strongest_hit_{key}", str(value))
 
     # abys most damage taken
