@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 14
+Total rewards claimed: 15
 \
-Last checked: 17.05.2021 17:26:45 UTC
+Last checked: 18.05.2021 17:11:57 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>255</td></tr>
-    <tr><td>Active days</td><td>107</td></tr>
+    <tr><td>Active days</td><td>108</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -28,10 +28,10 @@ Last checked: 17.05.2021 17:26:45 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>8</td></tr>
-    <tr><td>Total wins</td><td>6</td></tr>
-    <tr><td>Max floor</td><td>10-3</td></tr>
-    <tr><td>Total stars</td><td>18</td></tr>
+    <tr><td>Total battles</td><td>18</td></tr>
+    <tr><td>Total wins</td><td>9</td></tr>
+    <tr><td>Max floor</td><td>11-3</td></tr>
+    <tr><td>Total stars</td><td>25</td></tr>
     <tr><td>Strongest hit</td><td>Hutao -> 104943 DMG</td></tr>
     <tr><td>Most damage taken</td><td>Hutao -> 70482 DMG</td></tr>
     <tr><td>Most skills used</td><td>Hutao -> 22</td></tr>
@@ -102,7 +102,7 @@ Last checked: 17.05.2021 17:26:45 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>81</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
 </table>
