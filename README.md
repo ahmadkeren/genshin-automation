@@ -4,21 +4,21 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 15
+Total rewards claimed: 16
 \
-Last checked: 18.05.2021 17:11:57 UTC
+Last checked: 19.05.2021 17:11:58 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>255</td></tr>
-    <tr><td>Active days</td><td>108</td></tr>
+    <tr><td>Achievements</td><td>256</td></tr>
+    <tr><td>Active days</td><td>109</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>727</td></tr>
-    <tr><td>Exquisite chests</td><td>724</td></tr>
+    <tr><td>Common chests</td><td>728</td></tr>
+    <tr><td>Exquisite chests</td><td>725</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
     <tr><td>Unlocked waypoints</td><td>83</td></tr>
@@ -63,7 +63,7 @@ Last checked: 18.05.2021 17:11:57 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>97.7%</td>
+                    <td>97.8%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -130,7 +130,7 @@ Last checked: 18.05.2021 17:11:57 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
 </table>
@@ -166,9 +166,9 @@ Last checked: 18.05.2021 17:11:57 UTC
 </td><td>
 
 <table>
-    <tr><td>Name</td><td>White Tassel</td></tr>
+    <tr><td>Name</td><td>Black Tassel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
@@ -393,7 +393,7 @@ Last checked: 18.05.2021 17:11:57 UTC
     <tr><td>Name</td><td>Halberd</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
