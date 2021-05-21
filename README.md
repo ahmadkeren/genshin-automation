@@ -4,20 +4,20 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 17
+Total rewards claimed: 18
 \
-Last checked: 20.05.2021 17:13:48 UTC
+Last checked: 21.05.2021 17:14:35 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>256</td></tr>
-    <tr><td>Active days</td><td>109</td></tr>
+    <tr><td>Active days</td><td>111</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>728</td></tr>
+    <tr><td>Common chests</td><td>729</td></tr>
     <tr><td>Exquisite chests</td><td>725</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
@@ -63,7 +63,7 @@ Last checked: 20.05.2021 17:13:48 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>97.8%</td>
+                    <td>97.9%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -158,7 +158,7 @@ Last checked: 20.05.2021 17:13:48 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
@@ -168,7 +168,7 @@ Last checked: 20.05.2021 17:13:48 UTC
 <table>
     <tr><td>Name</td><td>Black Tassel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
@@ -270,7 +270,7 @@ Last checked: 20.05.2021 17:13:48 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>79</td></tr>
     <tr><td>Ascension</td><td>6</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>4 x Retracing Bolide<br>1 x Archaic Petra</td></tr>
 </table>
@@ -522,7 +522,7 @@ Last checked: 20.05.2021 17:13:48 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
