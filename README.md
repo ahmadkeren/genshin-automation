@@ -4,25 +4,25 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 23.05.2021 17:11:49 UTC
+Last checked: 24.05.2021 17:21:48 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>257</td></tr>
-    <tr><td>Active days</td><td>113</td></tr>
+    <tr><td>Active days</td><td>114</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>729</td></tr>
+    <tr><td>Common chests</td><td>730</td></tr>
     <tr><td>Exquisite chests</td><td>725</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
     <tr><td>Unlocked waypoints</td><td>83</td></tr>
-    <tr><td>Unlocked domains</td><td>27</td></tr>
+    <tr><td>Unlocked domains</td><td>26</td></tr>
 </table>
 
 ## Spiral Abys
@@ -63,7 +63,7 @@ Last checked: 23.05.2021 17:11:49 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>97.9%</td>
+                    <td>98.1%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
