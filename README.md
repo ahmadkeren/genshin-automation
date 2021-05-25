@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 21
+Total rewards claimed: 22
 \
-Last checked: 24.05.2021 17:21:48 UTC
+Last checked: 25.05.2021 17:30:17 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>257</td></tr>
-    <tr><td>Active days</td><td>114</td></tr>
+    <tr><td>Active days</td><td>115</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -28,7 +28,7 @@ Last checked: 24.05.2021 17:21:48 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>18</td></tr>
+    <tr><td>Total battles</td><td>19</td></tr>
     <tr><td>Total wins</td><td>9</td></tr>
     <tr><td>Max floor</td><td>11-3</td></tr>
     <tr><td>Total stars</td><td>25</td></tr>
@@ -158,7 +158,7 @@ Last checked: 24.05.2021 17:21:48 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
