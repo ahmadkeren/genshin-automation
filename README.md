@@ -6,19 +6,19 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 Total rewards claimed: 24
 \
-Last checked: 27.05.2021 17:54:20 UTC
+Last checked: 28.05.2021 16:03:45 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>257</td></tr>
-    <tr><td>Active days</td><td>117</td></tr>
+    <tr><td>Active days</td><td>118</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>730</td></tr>
-    <tr><td>Exquisite chests</td><td>725</td></tr>
+    <tr><td>Common chests</td><td>731</td></tr>
+    <tr><td>Exquisite chests</td><td>726</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
     <tr><td>Unlocked waypoints</td><td>83</td></tr>
@@ -63,7 +63,7 @@ Last checked: 27.05.2021 17:54:20 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>98.1%</td>
+                    <td>98.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
