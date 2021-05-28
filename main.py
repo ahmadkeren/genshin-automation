@@ -158,7 +158,7 @@ from bs4 import BeautifulSoup
 res = requests.get("https://www.pockettactics.com/genshin-impact/codes")
 soup = BeautifulSoup(res.text, 'html.parser')
 
-active_codes = [code.text for code in soup.find("div", {"class":"entry-content"}).find("ul").findAll("strong")]
+active_codes = [code.text.strip() for code in soup.find("div", {"class":"entry-content"}).find("ul").findAll("strong")]
 
 codes_file = root / "codes.txt"
 used_codes = codes_file.open().read().split("\n")
@@ -173,8 +173,8 @@ for code in new_codes[:-1]:
     gs.redeem_code(code, GAME_UID)
     time.sleep(5.2)
 if len(new_codes) != 0:
-    print("Redeemed " + str(len(new_codes)) + " new codes: " + ", ".join(new_codes))
     gs.redeem_code(new_codes[-1], GAME_UID)
+    print("Redeemed " + str(len(new_codes)) + " new codes: " + ", ".join(new_codes))
 
 
 #%% Add new codes to used codes
