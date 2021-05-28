@@ -169,12 +169,22 @@ new_codes = list(filter(lambda x: x not in used_codes, active_codes))
 
 import time
 
+failed_codes = []
 for code in new_codes[:-1]:
-    gs.redeem_code(code, GAME_UID)
+    try:
+        gs.redeem_code(code, GAME_UID)
+    except Exception as e:
+        failed_codes.append(code)
     time.sleep(5.2)
 if len(new_codes) != 0:
-    gs.redeem_code(new_codes[-1], GAME_UID)
-    print("Redeemed " + str(len(new_codes)) + " new codes: " + ", ".join(new_codes))
+    try:
+        gs.redeem_code(new_codes[-1], GAME_UID)
+    except Exception as e:
+        failed_codes.append(new_codes[-1])
+
+redeemed_codes = list(filter(lambda x: x not in failed_codes, new_codes))
+if len(redeemed_codes) != 0:
+    print("Redeemed " + str(len(redeemed_codes)) + " new codes: " + ", ".join(redeemed_codes))
 
 
 #%% Add new codes to used codes
