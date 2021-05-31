@@ -4,20 +4,20 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 27
+Total rewards claimed: 1
 \
-Last checked: 30.05.2021 18:01:18 UTC
+Last checked: 31.05.2021 18:26:13 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>259</td></tr>
-    <tr><td>Active days</td><td>120</td></tr>
+    <tr><td>Active days</td><td>121</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>731</td></tr>
+    <tr><td>Common chests</td><td>732</td></tr>
     <tr><td>Exquisite chests</td><td>726</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
@@ -63,7 +63,7 @@ Last checked: 30.05.2021 18:01:18 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>98.3%</td>
+                    <td>98.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -418,8 +418,8 @@ Last checked: 30.05.2021 18:01:18 UTC
 </td><td>
 
 <table>
-    <tr><td>Name</td><td>Dull Blade</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Favonius Sword</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
@@ -586,10 +586,10 @@ Last checked: 30.05.2021 18:01:18 UTC
 </td><td>
 
 <table>
-    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
