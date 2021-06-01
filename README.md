@@ -4,17 +4,17 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 31.05.2021 18:26:13 UTC
+Last checked: 01.06.2021 19:07:46 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>259</td></tr>
-    <tr><td>Active days</td><td>121</td></tr>
+    <tr><td>Achievements</td><td>260</td></tr>
+    <tr><td>Active days</td><td>122</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
-    <tr><td>Spiral abyss</td><td>11-3</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Common chests</td><td>732</td></tr>
@@ -28,13 +28,13 @@ Last checked: 31.05.2021 18:26:13 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>19</td></tr>
-    <tr><td>Total wins</td><td>9</td></tr>
-    <tr><td>Max floor</td><td>11-3</td></tr>
-    <tr><td>Total stars</td><td>25</td></tr>
-    <tr><td>Strongest hit</td><td>Hutao -> 104943 DMG</td></tr>
-    <tr><td>Most damage taken</td><td>Hutao -> 70482 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Hutao -> 22</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest hit this seasson -> no strongest hit this seasson DMG</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
 </table>
 
 
@@ -158,7 +158,7 @@ Last checked: 31.05.2021 18:26:13 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
@@ -270,7 +270,7 @@ Last checked: 31.05.2021 18:26:13 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>79</td></tr>
     <tr><td>Ascension</td><td>6</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>4 x Retracing Bolide<br>1 x Archaic Petra</td></tr>
 </table>
@@ -578,7 +578,7 @@ Last checked: 31.05.2021 18:26:13 UTC
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Archaic Petra</td></tr>
 </table>
