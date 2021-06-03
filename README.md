@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 3
+Total rewards claimed: 4
 \
-Last checked: 02.06.2021 19:04:53 UTC
+Last checked: 03.06.2021 18:37:28 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>260</td></tr>
-    <tr><td>Active days</td><td>123</td></tr>
+    <tr><td>Active days</td><td>124</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -130,7 +130,7 @@ Last checked: 02.06.2021 19:04:53 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
 </table>
@@ -243,7 +243,7 @@ Last checked: 02.06.2021 19:04:53 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Wanderer's Troupe</td></tr>
 </table>
 
