@@ -6,7 +6,7 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 Total rewards claimed: 7
 \
-Last checked: 06.06.2021 17:44:05 UTC
+Last checked: 06.06.2021 18:59:40 UTC
 
 ## Stats
 
@@ -14,10 +14,10 @@ Last checked: 06.06.2021 17:44:05 UTC
     <tr><td>Achievements</td><td>260</td></tr>
     <tr><td>Active days</td><td>127</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>732</td></tr>
+    <tr><td>Common chests</td><td>734</td></tr>
     <tr><td>Exquisite chests</td><td>727</td></tr>
     <tr><td>Precious chests</td><td>185</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
@@ -28,13 +28,13 @@ Last checked: 06.06.2021 17:44:05 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest hit this seasson -> no strongest hit this seasson DMG</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Total battles</td><td>2</td></tr>
+    <tr><td>Total wins</td><td>1</td></tr>
+    <tr><td>Max floor</td><td>9-1</td></tr>
+    <tr><td>Total stars</td><td>3</td></tr>
+    <tr><td>Strongest hit</td><td>Hutao -> 75310 DMG</td></tr>
+    <tr><td>Most damage taken</td><td>Hutao -> 22810 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Hutao -> 15</td></tr>
 </table>
 
 
@@ -75,7 +75,7 @@ Last checked: 06.06.2021 17:44:05 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>96.7%</td>
+                    <td>96.8%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -128,7 +128,7 @@ Last checked: 06.06.2021 17:44:05 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>81</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
