@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 7
+Total rewards claimed: 8
 \
-Last checked: 06.06.2021 18:59:40 UTC
+Last checked: 07.06.2021 18:27:28 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>260</td></tr>
-    <tr><td>Active days</td><td>127</td></tr>
+    <tr><td>Active days</td><td>128</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -28,10 +28,10 @@ Last checked: 06.06.2021 18:59:40 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>2</td></tr>
-    <tr><td>Total wins</td><td>1</td></tr>
-    <tr><td>Max floor</td><td>9-1</td></tr>
-    <tr><td>Total stars</td><td>3</td></tr>
+    <tr><td>Total battles</td><td>8</td></tr>
+    <tr><td>Total wins</td><td>6</td></tr>
+    <tr><td>Max floor</td><td>10-3</td></tr>
+    <tr><td>Total stars</td><td>18</td></tr>
     <tr><td>Strongest hit</td><td>Hutao -> 75310 DMG</td></tr>
     <tr><td>Most damage taken</td><td>Hutao -> 22810 DMG</td></tr>
     <tr><td>Most skills used</td><td>Hutao -> 15</td></tr>
@@ -158,7 +158,7 @@ Last checked: 06.06.2021 18:59:40 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
@@ -216,15 +216,15 @@ Last checked: 06.06.2021 18:59:40 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
 </table>
 
 </td><td>
 
 <table>
-    <tr><td>Name</td><td>Waster Greatsword</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -300,15 +300,15 @@ Last checked: 06.06.2021 18:59:40 UTC
     <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>1 x Scholar<br>1 x Pale Flame<br>1 x Berserker</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
 </table>
 
 </td><td>
 
 <table>
-    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
