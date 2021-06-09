@@ -4,25 +4,25 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 9
+Total rewards claimed: 10
 \
-Last checked: 08.06.2021 17:21:35 UTC
+Last checked: 09.06.2021 17:10:16 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>260</td></tr>
-    <tr><td>Active days</td><td>129</td></tr>
+    <tr><td>Achievements</td><td>265</td></tr>
+    <tr><td>Active days</td><td>130</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>734</td></tr>
-    <tr><td>Exquisite chests</td><td>727</td></tr>
-    <tr><td>Precious chests</td><td>185</td></tr>
+    <tr><td>Common chests</td><td>743</td></tr>
+    <tr><td>Exquisite chests</td><td>734</td></tr>
+    <tr><td>Precious chests</td><td>186</td></tr>
     <tr><td>Luxurious chests</td><td>62</td></tr>
-    <tr><td>Unlocked waypoints</td><td>83</td></tr>
-    <tr><td>Unlocked domains</td><td>26</td></tr>
+    <tr><td>Unlocked waypoints</td><td>89</td></tr>
+    <tr><td>Unlocked domains</td><td>27</td></tr>
 </table>
 
 ## Spiral Abys
@@ -175,6 +175,34 @@ Last checked: 08.06.2021 17:21:35 UTC
 </td></tr>
 </table>
 
+### Diluc
+
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Ascension</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Traveler
 
 <table>
@@ -198,34 +226,6 @@ Last checked: 08.06.2021 17:21:35 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Diluc
-
-<table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
-</table>
-
-</td><td>
-
-<table>
-    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
