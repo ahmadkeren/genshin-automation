@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 10
+Total rewards claimed: 11
 \
-Last checked: 09.06.2021 17:10:16 UTC
+Last checked: 10.06.2021 17:11:12 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>265</td></tr>
-    <tr><td>Active days</td><td>130</td></tr>
+    <tr><td>Achievements</td><td>267</td></tr>
+    <tr><td>Active days</td><td>131</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -147,6 +147,34 @@ Last checked: 09.06.2021 17:10:16 UTC
 </td></tr>
 </table>
 
+### Diluc
+
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Ascension</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Zhongli
 
 <table>
@@ -170,34 +198,6 @@ Last checked: 09.06.2021 17:10:16 UTC
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Diluc
-
-<table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
-</table>
-
-</td><td>
-
-<table>
-    <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -522,7 +522,7 @@ Last checked: 09.06.2021 17:10:16 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>21</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
@@ -578,7 +578,7 @@ Last checked: 09.06.2021 17:10:16 UTC
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Archaic Petra</td></tr>
 </table>
