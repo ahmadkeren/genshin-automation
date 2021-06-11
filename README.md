@@ -4,25 +4,25 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 11
+Total rewards claimed: 12
 \
-Last checked: 10.06.2021 17:11:12 UTC
+Last checked: 11.06.2021 17:01:22 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>267</td></tr>
-    <tr><td>Active days</td><td>131</td></tr>
+    <tr><td>Active days</td><td>132</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>743</td></tr>
-    <tr><td>Exquisite chests</td><td>734</td></tr>
-    <tr><td>Precious chests</td><td>186</td></tr>
-    <tr><td>Luxurious chests</td><td>62</td></tr>
-    <tr><td>Unlocked waypoints</td><td>89</td></tr>
-    <tr><td>Unlocked domains</td><td>27</td></tr>
+    <tr><td>Common chests</td><td>786</td></tr>
+    <tr><td>Exquisite chests</td><td>781</td></tr>
+    <tr><td>Precious chests</td><td>195</td></tr>
+    <tr><td>Luxurious chests</td><td>67</td></tr>
+    <tr><td>Unlocked waypoints</td><td>92</td></tr>
+    <tr><td>Unlocked domains</td><td>38</td></tr>
 </table>
 
 ## Spiral Abys
@@ -63,7 +63,7 @@ Last checked: 10.06.2021 17:11:12 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>98.4%</td>
+                    <td>98.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -326,7 +326,7 @@ Last checked: 10.06.2021 17:11:12 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>50</td></tr>
     <tr><td>Ascension</td><td>4</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
 </table>
