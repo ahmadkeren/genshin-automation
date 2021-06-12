@@ -4,23 +4,23 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 11.06.2021 17:01:22 UTC
+Last checked: 12.06.2021 16:58:09 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>267</td></tr>
-    <tr><td>Active days</td><td>132</td></tr>
+    <tr><td>Achievements</td><td>268</td></tr>
+    <tr><td>Active days</td><td>133</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Common chests</td><td>786</td></tr>
-    <tr><td>Exquisite chests</td><td>781</td></tr>
+    <tr><td>Exquisite chests</td><td>783</td></tr>
     <tr><td>Precious chests</td><td>195</td></tr>
-    <tr><td>Luxurious chests</td><td>67</td></tr>
+    <tr><td>Luxurious chests</td><td>68</td></tr>
     <tr><td>Unlocked waypoints</td><td>92</td></tr>
     <tr><td>Unlocked domains</td><td>38</td></tr>
 </table>
@@ -130,7 +130,7 @@ Last checked: 11.06.2021 17:01:22 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>81</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
 </table>
@@ -520,7 +520,7 @@ Last checked: 11.06.2021 17:01:22 UTC
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>21</td></tr>
+    <tr><td>Level</td><td>22</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
