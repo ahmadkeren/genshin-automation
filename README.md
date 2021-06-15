@@ -4,23 +4,23 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 15
+Total rewards claimed: 16
 \
-Last checked: 14.06.2021 16:59:31 UTC
+Last checked: 15.06.2021 17:02:22 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>135</td></tr>
+    <tr><td>Active days</td><td>136</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
-    <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Common chests</td><td>786</td></tr>
-    <tr><td>Exquisite chests</td><td>783</td></tr>
-    <tr><td>Precious chests</td><td>195</td></tr>
-    <tr><td>Luxurious chests</td><td>68</td></tr>
+    <tr><td>Geoculi</td><td>131</td></tr>
+    <tr><td>Common chests</td><td>822</td></tr>
+    <tr><td>Exquisite chests</td><td>794</td></tr>
+    <tr><td>Precious chests</td><td>198</td></tr>
+    <tr><td>Luxurious chests</td><td>69</td></tr>
     <tr><td>Unlocked waypoints</td><td>92</td></tr>
     <tr><td>Unlocked domains</td><td>38</td></tr>
 </table>
@@ -63,7 +63,7 @@ Last checked: 14.06.2021 16:59:31 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>98.5%</td>
+                    <td>100.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -75,7 +75,7 @@ Last checked: 14.06.2021 16:59:31 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>96.8%</td>
+                    <td>98.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -158,7 +158,7 @@ Last checked: 14.06.2021 16:59:31 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>79</td></tr>
     <tr><td>Ascension</td><td>6</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
@@ -494,7 +494,7 @@ Last checked: 14.06.2021 16:59:31 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>28</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>3 x Instructor<br>2 x Wanderer's Troupe</td></tr>
 </table>
@@ -522,7 +522,7 @@ Last checked: 14.06.2021 16:59:31 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>22</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
@@ -534,6 +534,34 @@ Last checked: 14.06.2021 16:59:31 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Sucrose
+
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Anemo</td></tr>
+    <tr><td>Level</td><td>21</td></tr>
+    <tr><td>Ascension</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Archaic Petra</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -562,34 +590,6 @@ Last checked: 14.06.2021 16:59:31 UTC
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Sucrose
-
-<table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Archaic Petra</td></tr>
-</table>
-
-</td><td>
-
-<table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
