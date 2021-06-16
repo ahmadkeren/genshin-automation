@@ -4,17 +4,17 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 16
+Total rewards claimed: 17
 \
-Last checked: 15.06.2021 17:02:22 UTC
+Last checked: 16.06.2021 17:54:49 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>136</td></tr>
+    <tr><td>Active days</td><td>137</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
-    <tr><td>Spiral abyss</td><td>10-3</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Common chests</td><td>822</td></tr>
@@ -28,13 +28,13 @@ Last checked: 15.06.2021 17:02:22 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>8</td></tr>
-    <tr><td>Total wins</td><td>6</td></tr>
-    <tr><td>Max floor</td><td>10-3</td></tr>
-    <tr><td>Total stars</td><td>18</td></tr>
-    <tr><td>Strongest hit</td><td>Hutao -> 75310 DMG</td></tr>
-    <tr><td>Most damage taken</td><td>Hutao -> 22810 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Hutao -> 15</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest hit this seasson -> no strongest hit this seasson DMG</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
 </table>
 
 
