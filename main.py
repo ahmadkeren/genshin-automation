@@ -8,7 +8,7 @@ import re
 #%% login into genshin
 
 GAME_UID = int(os.environ.get("GAME_UID"))
-gs.set_cookie_header(os.environ.get("COOKIE"))
+gs.set_cookie(os.environ.get("COOKIE"))
 
 #%% check in and get exp on hoyolab
 
@@ -21,10 +21,10 @@ except gs.AlreadySignedIn as e:
 
 #%% get data
 
-user_info = gs.get_user_info(GAME_UID)
-characters = gs.get_all_characters(GAME_UID)
+user_info = gs.get_user_stats(GAME_UID)
+characters = gs.get_characters(GAME_UID)
 spiral_abys = gs.get_spiral_abyss(GAME_UID)
-daily_reward_info = gs.get_daily_reward_info()
+(daily_reward_info_is_sign, daily_reward_info_total_sign_day) = gs.get_daily_reward_info()
 
 
 #%% create readme from template
@@ -40,8 +40,8 @@ import datetime
 data = data.replace("replace_this_with_check_time", datetime.datetime.utcnow().strftime("%d.%m.%Y %H:%M:%S UTC"))
 
 # stats filling
-for key, value in daily_reward_info.items():
-    data = data.replace(f"replace_this_with_reward_info_{key}", str(value))
+data = data.replace(f"replace_this_with_reward_info_total_sign_day", str(daily_reward_info_total_sign_day))
+data = data.replace(f"replace_this_with_reward_info_is_sign", str(daily_reward_info_is_sign))
 
 # exploration filling
 offset = 0
