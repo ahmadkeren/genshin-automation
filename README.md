@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 18
+Total rewards claimed: 19
 \
-Last checked: 17.06.2021 17:02:06 UTC
+Last checked: 18.06.2021 16:59:46 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>138</td></tr>
+    <tr><td>Active days</td><td>139</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -156,8 +156,8 @@ Last checked: 17.06.2021 17:02:06 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>79</td></tr>
-    <tr><td>Ascension</td><td>6</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
@@ -336,7 +336,7 @@ Last checked: 17.06.2021 17:02:06 UTC
 <table>
     <tr><td>Name</td><td>Dodoco Tales</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
@@ -550,7 +550,7 @@ Last checked: 17.06.2021 17:02:06 UTC
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>21</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Archaic Petra</td></tr>
 </table>
