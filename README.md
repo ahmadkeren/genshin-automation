@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 19.06.2021 16:56:22 UTC
+Last checked: 20.06.2021 16:56:26 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>140</td></tr>
+    <tr><td>Active days</td><td>141</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -91,6 +91,34 @@ Last checked: 19.06.2021 16:56:22 UTC
 ## Characters
 
 
+### Keqing
+
+<table>
+<tr><th>Character info</th><th>Weapon info</th></tr>
+<tr><td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>81</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
+</table>
+
+</td><td>
+
+<table>
+    <tr><td>Name</td><td>Aquila Favonia</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Hu Tao
 
 <table>
@@ -119,34 +147,6 @@ Last checked: 19.06.2021 16:56:22 UTC
 </td></tr>
 </table>
 
-### Keqing
-
-<table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>81</td></tr>
-    <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
-</table>
-
-</td><td>
-
-<table>
-    <tr><td>Name</td><td>Aquila Favonia</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
 ### Zhongli
 
 <table>
@@ -168,7 +168,7 @@ Last checked: 19.06.2021 16:56:22 UTC
 <table>
     <tr><td>Name</td><td>Black Tassel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
