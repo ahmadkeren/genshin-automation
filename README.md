@@ -4,20 +4,20 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 21
+Total rewards claimed: 22
 \
-Last checked: 20.06.2021 16:56:26 UTC
+Last checked: 21.06.2021 16:57:51 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>141</td></tr>
+    <tr><td>Active days</td><td>142</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
-    <tr><td>Common chests</td><td>822</td></tr>
+    <tr><td>Common chests</td><td>826</td></tr>
     <tr><td>Exquisite chests</td><td>794</td></tr>
     <tr><td>Precious chests</td><td>198</td></tr>
     <tr><td>Luxurious chests</td><td>69</td></tr>
@@ -75,7 +75,7 @@ Last checked: 20.06.2021 16:56:26 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>98.6%</td>
+                    <td>98.9%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -156,9 +156,9 @@ Last checked: 20.06.2021 16:56:26 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>81</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
@@ -184,8 +184,8 @@ Last checked: 20.06.2021 16:56:26 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Ascension</td><td>6</td></tr>
+    <tr><td>Level</td><td>81</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
@@ -520,7 +520,7 @@ Last checked: 20.06.2021 16:56:26 UTC
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>22</td></tr>
+    <tr><td>Level</td><td>23</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
