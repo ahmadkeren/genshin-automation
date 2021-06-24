@@ -6,13 +6,13 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 Total rewards claimed: 24
 \
-Last checked: 23.06.2021 16:47:40 UTC
+Last checked: 24.06.2021 09:40:51 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>144</td></tr>
+    <tr><td>Active days</td><td>145</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -94,8 +94,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Keqing
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
@@ -107,7 +112,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Aquila Favonia</td></tr>
@@ -122,8 +129,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Hu Tao
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Lapis.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
@@ -135,7 +147,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Lithic Spear</td></tr>
@@ -150,8 +164,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Zhongli
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
@@ -163,7 +182,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Black Tassel</td></tr>
@@ -178,8 +199,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Diluc
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
@@ -191,7 +217,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
@@ -206,8 +234,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Traveler
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
@@ -219,7 +252,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Prototype Rancour</td></tr>
@@ -234,8 +269,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Barbara
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -247,7 +287,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Wanderer's Troupe</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Prototype Amber</td></tr>
@@ -262,8 +304,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Noelle
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Exotic.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -275,7 +322,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>4 x Retracing Bolide<br>1 x Archaic Petra</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Whiteblind</td></tr>
@@ -290,8 +339,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Razor
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -303,7 +357,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Waster Greatsword</td></tr>
@@ -318,8 +374,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Yanfei
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -331,7 +392,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Dodoco Tales</td></tr>
@@ -346,8 +409,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Chongyun
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Reasoning.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -359,7 +427,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Debate Club</td></tr>
@@ -374,8 +444,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Xiangling
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Halberd.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -387,7 +462,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Halberd</td></tr>
@@ -402,8 +479,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Xingqiu
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -415,7 +497,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>1 x Lavawalker<br>1 x Instructor<br>1 x Gladiator's Finale<br>1 x Defender's Will<br>1 x Berserker</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Favonius Sword</td></tr>
@@ -430,8 +514,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Fischl
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fleurfair.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -443,7 +532,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Windblume Ode</td></tr>
@@ -458,8 +549,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Amber
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Sling.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -471,7 +567,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Slingshot</td></tr>
@@ -486,8 +584,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Lisa
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -499,7 +602,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>3 x Instructor<br>2 x Wanderer's Troupe</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Apprentice's Notes</td></tr>
@@ -514,8 +619,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Diona
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -527,7 +637,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Sacrificial Bow</td></tr>
@@ -542,8 +654,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Sucrose
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -555,7 +672,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
@@ -570,8 +689,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Beidou
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -583,7 +707,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Archaic Petra<br>1 x Crimson Witch of Flames</td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Waster Greatsword</td></tr>
@@ -598,8 +724,13 @@ Last checked: 23.06.2021 16:47:40 UTC
 ### Kaeya
 
 <table>
-<tr><th>Character info</th><th>Weapon info</th></tr>
-<tr><td>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Silver.png"></p></td>
+</tr>
+
+<tr>
+<td>
 
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
@@ -611,7 +742,9 @@ Last checked: 23.06.2021 16:47:40 UTC
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
-</td><td>
+</td>
+
+<td>
 
 <table>
     <tr><td>Name</td><td>Silver Sword</td></tr>

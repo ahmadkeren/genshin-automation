@@ -32,7 +32,7 @@ spiral_abys = gs.get_spiral_abyss(GAME_UID)
 import pathlib
 
 root = pathlib.Path(__file__).parent.resolve()
-readme_template = root / "README_template_v2.md"
+readme_template = root / "README_template_v3.md"
 data = readme_template.open().read()
 
 
@@ -123,7 +123,10 @@ while True:
     for character in characters:
         filled_template = template_string
         for key, value in character.items():
-            if key == "weapon":
+            if key == "icon":
+                filled_template = filled_template.replace(f"replace_this_with_character_image", str(value))
+                filled_template = filled_template.replace(f"replace_this_with_character_icon", str(value).replace("@2x", "").replace("character_image", "character_icon"))
+            elif key == "weapon":
                 for key, value in value.items():
                     filled_template = filled_template.replace(f"replace_this_with_character_weapon_{key}", str(value))
             elif key == "artifacts":
