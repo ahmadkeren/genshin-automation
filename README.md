@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 25
+Total rewards claimed: 26
 \
-Last checked: 24.06.2021 16:49:36 UTC
+Last checked: 25.06.2021 16:55:04 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>145</td></tr>
+    <tr><td>Active days</td><td>146</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -22,7 +22,7 @@ Last checked: 24.06.2021 16:49:36 UTC
     <tr><td>Precious chests</td><td>198</td></tr>
     <tr><td>Luxurious chests</td><td>69</td></tr>
     <tr><td>Unlocked waypoints</td><td>92</td></tr>
-    <tr><td>Unlocked domains</td><td>39</td></tr>
+    <tr><td>Unlocked domains</td><td>40</td></tr>
 </table>
 
 ## Spiral Abys
@@ -266,6 +266,41 @@ Last checked: 24.06.2021 16:49:36 UTC
 </td></tr>
 </table>
 
+### Yanfei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Ascension</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Dodoco Tales</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Barbara
 
 <table>
@@ -366,41 +401,6 @@ Last checked: 24.06.2021 16:49:36 UTC
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Yanfei
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Dodoco Tales</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -667,8 +667,8 @@ Last checked: 24.06.2021 16:49:36 UTC
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>21</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
