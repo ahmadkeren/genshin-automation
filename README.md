@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 29
+Total rewards claimed: 30
 \
-Last checked: 28.06.2021 17:08:41 UTC
+Last checked: 29.06.2021 16:53:25 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>149</td></tr>
+    <tr><td>Active days</td><td>150</td></tr>
     <tr><td>Characters</td><td>19</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -144,7 +144,7 @@ Last checked: 28.06.2021 17:08:41 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
 </table>
 
 </td>
@@ -224,7 +224,7 @@ Last checked: 28.06.2021 17:08:41 UTC
 <table>
     <tr><td>Name</td><td>Wolf's Gravestone</td></tr>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -284,7 +284,7 @@ Last checked: 28.06.2021 17:08:41 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
 </table>
 
 </td>
