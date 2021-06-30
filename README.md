@@ -4,9 +4,9 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 30
+Total rewards claimed: 1
 \
-Last checked: 30.06.2021 11:13:14 UTC
+Last checked: 30.06.2021 16:55:18 UTC
 
 ## Stats
 
@@ -425,8 +425,8 @@ Last checked: 30.06.2021 11:13:14 UTC
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Ascension</td><td>5</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Archaic Petra<br>1 x Crimson Witch of Flames</td></tr>
@@ -672,7 +672,7 @@ Last checked: 30.06.2021 11:13:14 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>23</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
