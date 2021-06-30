@@ -45,6 +45,9 @@ Last checked: replace_this_with_check_time
         <th>replace_this_with_exploration_name</th>$$$
     </tr>
     <tr>replace_this_with_explorations_template_string$$$
+        <td><p align="center"><img src="replace_this_with_exploration_icon" width="180"></p></td>$$$
+    </tr>
+    <tr>replace_this_with_explorations_template_string$$$
         <td>
             <table>
                 <tr>
