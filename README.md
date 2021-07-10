@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 10
+Total rewards claimed: 11
 \
-Last checked: 09.07.2021 16:53:11 UTC
+Last checked: 10.07.2021 16:50:26 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>271</td></tr>
-    <tr><td>Active days</td><td>160</td></tr>
+    <tr><td>Active days</td><td>161</td></tr>
     <tr><td>Characters</td><td>20</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -299,7 +299,7 @@ Last checked: 09.07.2021 16:53:11 UTC
 <table>
     <tr><td>Name</td><td>Frostbearer</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>85</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -672,7 +672,7 @@ Last checked: 09.07.2021 16:53:11 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>23</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
