@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 21
+Total rewards claimed: 22
 \
-Last checked: 20.07.2021 16:52:31 UTC
+Last checked: 21.07.2021 16:54:11 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>274</td></tr>
-    <tr><td>Active days</td><td>171</td></tr>
+    <tr><td>Achievements</td><td>278</td></tr>
+    <tr><td>Active days</td><td>172</td></tr>
     <tr><td>Characters</td><td>20</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -21,8 +21,8 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Exquisite chests</td><td>797</td></tr>
     <tr><td>Precious chests</td><td>198</td></tr>
     <tr><td>Luxurious chests</td><td>69</td></tr>
-    <tr><td>Unlocked waypoints</td><td>92</td></tr>
-    <tr><td>Unlocked domains</td><td>38</td></tr>
+    <tr><td>Unlocked waypoints</td><td>83</td></tr>
+    <tr><td>Unlocked domains</td><td>22</td></tr>
 </table>
 
 ## Spiral Abys
@@ -42,16 +42,30 @@ Last checked: 20.07.2021 16:52:31 UTC
 
 <table>
     <tr>
+        <th>Inazuma</th>
         <th>Dragonspine</th>
-        <th>Mondstadt</th>
         <th>Liyue</th>
+        <th>Mondstadt</th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
-        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>0.0%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>1</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -68,7 +82,7 @@ Last checked: 20.07.2021 16:52:31 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>100.0%</td>
+                    <td>99.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -80,7 +94,7 @@ Last checked: 20.07.2021 16:52:31 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>99.0%</td>
+                    <td>100.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -114,7 +128,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -149,7 +163,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -184,7 +198,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -219,7 +233,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -289,7 +303,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Archaic Petra<br>1 x Crimson Witch of Flames</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -322,7 +336,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Ascension</td><td>7</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
 </table>
@@ -359,7 +373,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -394,7 +408,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td>4 x Retracing Bolide<br>1 x Archaic Petra</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -534,7 +548,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>4</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>1 x Lavawalker<br>1 x Instructor<br>1 x Gladiator's Finale<br>1 x Defender's Will<br>1 x Berserker</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -602,7 +616,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>31</td></tr>
     <tr><td>Ascension</td><td>2</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
 </table>
@@ -639,7 +653,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Instructor<br>2 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
@@ -674,7 +688,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
+    <tr><td>Artifacts</td><td>4 x </td></tr>
 </table>
 
 </td>
@@ -709,7 +723,7 @@ Last checked: 20.07.2021 16:52:31 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>5 x </td></tr>
 </table>
 
 </td>
