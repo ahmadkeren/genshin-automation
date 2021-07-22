@@ -32,7 +32,7 @@ spiral_abys = gs.get_spiral_abyss(GAME_UID)
 import pathlib
 
 root = pathlib.Path(__file__).parent.resolve()
-readme_template = root / "README_template_v3.md"
+readme_template = root / "README_template.md"
 data = readme_template.open().read()
 
 

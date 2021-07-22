@@ -1,7 +1,3 @@
-<!---
-For some reason this is broken in mobile app, but works in browser, both on mobile and desktop... ¯\_(ツ)_/¯
--->
-
 # My Genshin Stats
 
 Total rewards claimed: replace_this_with_reward_info_total_sign_day

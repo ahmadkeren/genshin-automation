@@ -1,27 +1,23 @@
-<!---
-For some reason this is broken in mobile app, but works in browser, both on mobile and desktop... ¯\_(ツ)_/¯
--->
-
 # My Genshin Stats
 
-Total rewards claimed: 22
+Total rewards claimed: 23
 \
-Last checked: 21.07.2021 16:54:11 UTC
+Last checked: 22.07.2021 17:34:50 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>278</td></tr>
-    <tr><td>Active days</td><td>172</td></tr>
+    <tr><td>Achievements</td><td>282</td></tr>
+    <tr><td>Active days</td><td>173</td></tr>
     <tr><td>Characters</td><td>20</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
-    <tr><td>Common chests</td><td>828</td></tr>
-    <tr><td>Exquisite chests</td><td>797</td></tr>
-    <tr><td>Precious chests</td><td>198</td></tr>
+    <tr><td>Common chests</td><td>837</td></tr>
+    <tr><td>Exquisite chests</td><td>798</td></tr>
+    <tr><td>Precious chests</td><td>199</td></tr>
     <tr><td>Luxurious chests</td><td>69</td></tr>
-    <tr><td>Unlocked waypoints</td><td>83</td></tr>
+    <tr><td>Unlocked waypoints</td><td>89</td></tr>
     <tr><td>Unlocked domains</td><td>22</td></tr>
 </table>
 
@@ -58,7 +54,7 @@ Last checked: 21.07.2021 16:54:11 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>0.0%</td>
+                    <td>6.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -128,7 +124,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
 </table>
 
 </td>
@@ -163,7 +159,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Bloodstained Chivalry<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
 </td>
@@ -198,7 +194,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>3 x Crimson Witch of Flames<br>2 x Lavawalker</td></tr>
 </table>
 
 </td>
@@ -233,7 +229,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>2 x Pale Flame<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
 </table>
 
 </td>
@@ -263,11 +259,11 @@ Last checked: 21.07.2021 16:54:11 UTC
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Anemo</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>30</td></tr>
     <tr><td>Ascension</td><td>2</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
 </table>
 
@@ -303,7 +299,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Archaic Petra<br>1 x Crimson Witch of Flames</td></tr>
 </table>
 
 </td>
@@ -373,7 +369,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>7</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Wanderer's Troupe</td></tr>
 </table>
 
 </td>
@@ -408,7 +404,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>4 x Retracing Bolide<br>1 x Archaic Petra</td></tr>
 </table>
 
 </td>
@@ -476,7 +472,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>50</td></tr>
     <tr><td>Ascension</td><td>4</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
 </table>
@@ -548,7 +544,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>4</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>1 x Lavawalker<br>1 x Instructor<br>1 x Gladiator's Finale<br>1 x Defender's Will<br>1 x Berserker</td></tr>
 </table>
 
 </td>
@@ -653,7 +649,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>3 x Instructor<br>2 x Wanderer's Troupe</td></tr>
 </table>
 
 </td>
@@ -688,7 +684,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td>4 x </td></tr>
+    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>1 x Tenacity of the Millelith<br>1 x Scholar</td></tr>
 </table>
 
 </td>
@@ -723,7 +719,7 @@ Last checked: 21.07.2021 16:54:11 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>5 x </td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
 </td>
