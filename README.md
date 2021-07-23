@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 23
+Total rewards claimed: 24
 \
-Last checked: 22.07.2021 17:52:41 UTC
+Last checked: 23.07.2021 16:53:55 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>282</td></tr>
-    <tr><td>Active days</td><td>173</td></tr>
+    <tr><td>Achievements</td><td>285</td></tr>
+    <tr><td>Active days</td><td>174</td></tr>
     <tr><td>Characters</td><td>20</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
-    <tr><td>Common chests</td><td>837</td></tr>
-    <tr><td>Exquisite chests</td><td>798</td></tr>
-    <tr><td>Precious chests</td><td>199</td></tr>
+    <tr><td>Common chests</td><td>847</td></tr>
+    <tr><td>Exquisite chests</td><td>802</td></tr>
+    <tr><td>Precious chests</td><td>203</td></tr>
     <tr><td>Luxurious chests</td><td>69</td></tr>
-    <tr><td>Unlocked waypoints</td><td>89</td></tr>
+    <tr><td>Unlocked waypoints</td><td>93</td></tr>
     <tr><td>Unlocked domains</td><td>22</td></tr>
 </table>
 
@@ -54,7 +54,7 @@ Last checked: 22.07.2021 17:52:41 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>6.5%</td>
+                    <td>13.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -752,7 +752,7 @@ Last checked: 22.07.2021 17:52:41 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>21</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
 </table>
