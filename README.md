@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 25
+Total rewards claimed: 26
 \
-Last checked: 24.07.2021 16:51:10 UTC
+Last checked: 25.07.2021 16:51:08 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>285</td></tr>
-    <tr><td>Active days</td><td>175</td></tr>
+    <tr><td>Achievements</td><td>286</td></tr>
+    <tr><td>Active days</td><td>176</td></tr>
     <tr><td>Characters</td><td>20</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -717,7 +717,7 @@ Last checked: 24.07.2021 16:51:10 UTC
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>22</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
 </table>
