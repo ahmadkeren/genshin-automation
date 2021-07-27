@@ -13,6 +13,7 @@ Last checked: replace_this_with_check_time
     <tr><td>Spiral abyss</td><td>replace_this_with_spiral_abyss</td></tr>
     <tr><td>Anemoculi</td><td>replace_this_with_anemoculi</td></tr>
     <tr><td>Geoculi</td><td>replace_this_with_geoculi</td></tr>
+    <tr><td>Electroculi</td><td>replace_this_with_electroculi</td></tr>
     <tr><td>Common chests</td><td>replace_this_with_common_chests</td></tr>
     <tr><td>Exquisite chests</td><td>replace_this_with_exquisite_chests</td></tr>
     <tr><td>Precious chests</td><td>replace_this_with_precious_chests</td></tr>
@@ -79,10 +80,10 @@ replace_this_with_characters_template_string$$$
     <tr><td>Rarity</td><td>replace_this_with_character_rarity</td></tr>
     <tr><td>Element</td><td>replace_this_with_character_element</td></tr>
     <tr><td>Level</td><td>replace_this_with_character_level</td></tr>
-    <tr><td>Ascension</td><td>replace_this_with_character_ascension</td></tr>
     <tr><td>Friendship</td><td>replace_this_with_character_friendship</td></tr>
     <tr><td>Constellation</td><td>replace_this_with_character_constellation</td></tr>
     <tr><td>Artifacts</td><td>replace_this_with_character_artifact_sets</td></tr>
+    <tr><td>Outfits</td><td>replace_this_with_character_outfits</td></tr>
 </table>
 
 </td>

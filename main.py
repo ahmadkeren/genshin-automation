@@ -118,15 +118,12 @@ while True:
 
     filled_templates = ""
 
-    characters.sort(key=lambda x: (int(x["rarity"]), int(x["level"]), int(x["ascension"]), int(x["constellation"]) ,int(x["friendship"])), reverse=True)
+    characters.sort(key=lambda x: (int(x["rarity"]), int(x["level"]), int(x["constellation"]) ,int(x["friendship"])), reverse=True)
 
     for character in characters:
         filled_template = template_string
         for key, value in character.items():
-            if key == "icon":
-                filled_template = filled_template.replace(f"replace_this_with_character_image", str(value))
-                filled_template = filled_template.replace(f"replace_this_with_character_icon", str(value).replace("@2x", "").replace("character_image", "character_icon"))
-            elif key == "weapon":
+            if key == "weapon":
                 for key, value in value.items():
                     filled_template = filled_template.replace(f"replace_this_with_character_weapon_{key}", str(value))
             elif key == "artifacts":
@@ -137,6 +134,11 @@ while True:
                 filled_template = filled_template.replace("replace_this_with_character_artifact_sets", sets)
             elif key == "constellations":
                 continue
+            elif key == "outfits":
+                outfits = [outfit.get("name") for outfit in value]
+                outfits.sort()
+                outfits = "<br>".join(outfits)
+                filled_template = filled_template.replace("replace_this_with_character_outfits", outfits)
             else:
                 filled_template = filled_template.replace(f"replace_this_with_character_{key}", str(value))
         filled_templates += filled_template
@@ -149,8 +151,9 @@ while True:
 for key, value in user_info["stats"].items():
     data = data.replace(f"replace_this_with_{key}", str(value))
 
+import io
 readme = root / "README.md"
-readme.open("w").write(data)
+io.open(readme, "w", newline="\n").write(data)
 
 
 #%% Check for new codes
@@ -193,6 +196,6 @@ if len(redeemed_codes) != 0:
 #%% Add new codes to used codes
 
 used_codes.extend(new_codes)
-codes_file.open("w").write("\n".join(used_codes))
+io.open(codes_file, "w", newline="\n").write("\n".join(used_codes))
 
 #%%
