@@ -1,16 +1,16 @@
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 01.09.2021 16:49:57 UTC
+Last checked: 02.09.2021 16:51:01 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>72</td></tr>
-    <tr><td>Active days</td><td>65</td></tr>
+    <tr><td>Active days</td><td>66</td></tr>
     <tr><td>Characters</td><td>17</td></tr>
-    <tr><td>Spiral abyss</td><td>-</td></tr>
+    <tr><td>Spiral abyss</td><td>4-3</td></tr>
     <tr><td>Anemoculi</td><td>22</td></tr>
     <tr><td>Geoculi</td><td>37</td></tr>
     <tr><td>Electroculi</td><td>0</td></tr>
