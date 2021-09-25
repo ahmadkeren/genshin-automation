@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 10
+Total rewards claimed: 24
 \
-Last checked: 10.09.2021 16:45:32 UTC
+Last checked: 25.09.2021 12:22:59 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>72</td></tr>
-    <tr><td>Active days</td><td>67</td></tr>
+    <tr><td>Achievements</td><td>77</td></tr>
+    <tr><td>Active days</td><td>69</td></tr>
     <tr><td>Characters</td><td>17</td></tr>
-    <tr><td>Spiral abyss</td><td>4-3</td></tr>
+    <tr><td>Spiral abyss</td><td>-</td></tr>
     <tr><td>Anemoculi</td><td>22</td></tr>
     <tr><td>Geoculi</td><td>37</td></tr>
     <tr><td>Electroculi</td><td>0</td></tr>
-    <tr><td>Common chests</td><td>146</td></tr>
-    <tr><td>Exquisite chests</td><td>179</td></tr>
-    <tr><td>Precious chests</td><td>43</td></tr>
+    <tr><td>Common chests</td><td>153</td></tr>
+    <tr><td>Exquisite chests</td><td>182</td></tr>
+    <tr><td>Precious chests</td><td>44</td></tr>
     <tr><td>Luxurious chests</td><td>10</td></tr>
     <tr><td>Unlocked waypoints</td><td>75</td></tr>
     <tr><td>Unlocked domains</td><td>15</td></tr>
@@ -79,7 +79,7 @@ Last checked: 10.09.2021 16:45:32 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>27.6%</td>
+                    <td>27.9%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -91,7 +91,7 @@ Last checked: 10.09.2021 16:45:32 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>31.0%</td>
+                    <td>31.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -124,7 +124,7 @@ Last checked: 10.09.2021 16:45:32 UTC
     <tr><td>Level</td><td>50</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x The Exile<br>2 x Resolution of Sojourner<br>1 x Adventurer</td></tr>
+    <tr><td>Artifacts</td><td>2 x The Exile<br>2 x Berserker<br>1 x Scholar</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
