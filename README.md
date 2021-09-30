@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 28
+Total rewards claimed: 0
 \
-Last checked: 29.09.2021 16:47:29 UTC
+Last checked: 30.09.2021 16:47:30 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>77</td></tr>
-    <tr><td>Active days</td><td>71</td></tr>
+    <tr><td>Active days</td><td>72</td></tr>
     <tr><td>Characters</td><td>17</td></tr>
     <tr><td>Spiral abyss</td><td>4-3</td></tr>
     <tr><td>Anemoculi</td><td>22</td></tr>
@@ -228,7 +228,7 @@ Last checked: 29.09.2021 16:47:29 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>50</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>2 x The Exile<br>2 x Resolution of Sojourner<br>1 x Traveling Doctor</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
