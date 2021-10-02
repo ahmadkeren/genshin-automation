@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 01.10.2021 16:48:38 UTC
+Last checked: 02.10.2021 16:46:07 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>77</td></tr>
-    <tr><td>Active days</td><td>73</td></tr>
+    <tr><td>Active days</td><td>74</td></tr>
     <tr><td>Characters</td><td>17</td></tr>
     <tr><td>Spiral abyss</td><td>4-3</td></tr>
     <tr><td>Anemoculi</td><td>22</td></tr>
@@ -492,6 +492,41 @@ Last checked: 01.10.2021 16:48:38 UTC
 </td></tr>
 </table>
 
+### Beidou
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Noelle
 
 <table>
@@ -589,41 +624,6 @@ Last checked: 01.10.2021 16:48:38 UTC
 
 <table>
     <tr><td>Name</td><td>Apprentice's Notes</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Beidou
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Waster Greatsword</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
