@@ -1,0 +1,36 @@
+name: "Daily check and update reedem code"
+
+on:
+  schedule:
+    - cron: "16 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+      - name: Install requirements
+        run: |-
+          pip install -r requirements.txt
+
+      - name: Run main.py
+        run: |-
+          python3 ./main.py
+
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "paimon@gmail.com"
+          git config --global user.name "Paimon"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
