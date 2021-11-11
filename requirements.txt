@@ -1,3 +1,2 @@
-genshinstats
 beautifulsoup4
 requests
