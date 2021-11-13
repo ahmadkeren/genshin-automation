@@ -1,4 +1,4 @@
-name: "Daily check and update reedem code"
+name: "Periksa Reedem Code Terbaru"
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
         run: |-
           pip install -r requirements.txt
 
-      - name: Run main.py
+      - name: Jalankan Core Engine
         run: |-
           python3 ./main.py
 
